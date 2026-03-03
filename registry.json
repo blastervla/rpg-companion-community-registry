@@ -1,41 +1,50 @@
 [
-    {
-        "id": "default",
-        "name": "default",
-        "description": "The default repo!",
-        "tags": [
-            "fantasy",
-            "5e",
-            "5e2024"
-        ],
-        "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
-        "github_repo": "blastervla/rpg-companion-app-systems",
-        "stars": 7
-    },
-    {
-        "id": "subclasses_2024",
-        "name": "5e2024 + 5e subclasses",
-        "description": "The 5e 2024 classes with access to 5e subclasses",
-        "tags": [
-            "fantasy",
-            "5e",
-            "5e2024"
-        ],
-        "repo_url": "https://d2g0c6hamn0dq.cloudfront.net",
-        "stars": 0
-    },
-    {
-        "id": "5e2024HROF",
-        "name": "5e 2024 Heroes of Faerûn Companion Data",
-        "description": "Subclasses, feats, spells, and backgrounds from 5e 2024 Forgotten Realms: Heroes of Faerûn, formatted for use in the RPG companion app",
-        "tags": [
-            "fantasy",
-            "5e2024",
-            "forgotten-realms",
-            "heroes-of-faerun"
-        ],
-        "repo_url": "https://toothy-nineveth.github.io/5e2024HROF",
-        "github_repo": "Toothy-Nineveth/5e2024HROF",
-        "stars": 2
-    }
+  {
+    "id": "default",
+    "name": "default",
+    "description": "The default repo!",
+    "tags": [
+      "fantasy",
+      "5e",
+      "5e2024"
+    ],
+    "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
+    "github_repo": "blastervla/rpg-companion-app-systems",
+    "stars": 7
+  },
+  {
+    "id": "subclasses_2024",
+    "name": "5e2024 + 5e subclasses",
+    "description": "The 5e 2024 classes with access to 5e subclasses",
+    "tags": [
+      "fantasy",
+      "5e",
+      "5e2024"
+    ],
+    "repo_url": "https://d2g0c6hamn0dq.cloudfront.net",
+    "stars": 0
+  },
+  {
+    "id": "5e2024HROF",
+    "name": "5e 2024 Heroes of Faerûn Companion Data",
+    "description": "Subclasses, feats, spells, and backgrounds from 5e 2024 Forgotten Realms: Heroes of Faerûn, formatted for use in the RPG companion app",
+    "tags": [
+      "fantasy",
+      "5e2024",
+      "forgotten-realms",
+      "heroes-of-faerun"
+    ],
+    "repo_url": "https://toothy-nineveth.github.io/5e2024HROF",
+    "github_repo": "Toothy-Nineveth/5e2024HROF",
+    "stars": 2
+  },
+  {
+    "name": "RPG-backup",
+    "description": "backup with races, subclass I've added",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "Joybrther/RPG-backup",
+    "repo_url": "https://Joybrther.github.io/RPG-backup/",
+    "has_system": false
+  }
 ]
