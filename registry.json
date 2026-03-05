@@ -79,5 +79,17 @@
     "github_repo": "Violetwolf003-beep/Xenoblade-1-and-2-inspired-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Xenoblade-1-and-2-inspired-pack/",
     "has_system": false
+  },
+  {
+    "name": "hero-s-agents-goblins",
+    "description": "you are tasked to protect an ancient civilization from goblins",
+    "tags": [
+      "fantasy",
+      "heroes-of-faerun"
+    ],
+    "stars": 0,
+    "github_repo": "jesseseward75-cmyk/hero-s-agents-goblins",
+    "repo_url": "https://jesseseward75-cmyk.github.io/hero-s-agents-goblins/",
+    "has_system": false
   }
 ]
