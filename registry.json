@@ -102,5 +102,18 @@
     "github_repo": "Junk-Pyle/The-Pugilist-Pack",
     "repo_url": "https://Junk-Pyle.github.io/The-Pugilist-Pack/",
     "has_system": false
+  },
+  {
+    "name": "The-Bloodborne-Hunter",
+    "description": "This class is home brewed based on the good hunter (the character you play) from bloodborne. this is my first class I have made and don’t know if it’s balanced and it would help for some feedback.",
+    "tags": [
+      "5e",
+      "fantasy",
+      "bloodborne"
+    ],
+    "stars": 0,
+    "github_repo": "SLRPY-PNDZZ/The-Bloodborne-Hunter",
+    "repo_url": "https://SLRPY-PNDZZ.github.io/The-Bloodborne-Hunter/",
+    "has_system": false
   }
 ]
