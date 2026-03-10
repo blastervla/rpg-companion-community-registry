@@ -115,5 +115,16 @@
     "github_repo": "SLRPY-PNDZZ/The-Bloodborne-Hunter",
     "repo_url": "https://SLRPY-PNDZZ.github.io/The-Bloodborne-Hunter/",
     "has_system": false
+  },
+  {
+    "name": "Twilight-cleric",
+    "description": "5e twilight cleric reworked for 2024",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "odytsek/Twilight-cleric",
+    "repo_url": "https://odytsek.github.io/Twilight-cleric/",
+    "has_system": false
   }
 ]
