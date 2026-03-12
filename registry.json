@@ -195,5 +195,16 @@
     "github_repo": "Violetwolf003-beep/Street-Fighter-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Street-Fighter-pack/",
     "has_system": false
+  },
+  {
+    "name": "WheyRpg9",
+    "description": "Tudo de D&D",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "lucsupro-ux/WheyRpg9",
+    "repo_url": "https://lucsupro-ux.github.io/WheyRpg9/",
+    "has_system": false
   }
 ]
