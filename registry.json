@@ -220,5 +220,14 @@
     "github_repo": "pranavthepro-sys/Balanced-Homebrew-Subclasses",
     "repo_url": "https://pranavthepro-sys.github.io/Balanced-Homebrew-Subclasses/",
     "has_system": false
+  },
+  {
+    "name": "rulebook",
+    "description": "",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "jbiancat/rulebook",
+    "repo_url": "https://jbiancat.github.io/rulebook/",
+    "has_system": false
   }
 ]
