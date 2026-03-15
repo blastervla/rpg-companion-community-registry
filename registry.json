@@ -207,5 +207,16 @@
     "github_repo": "pranavthepro-sys/Balanced-Homebrew-Subclasses",
     "repo_url": "https://pranavthepro-sys.github.io/Balanced-Homebrew-Subclasses/",
     "has_system": false
+  },
+  {
+    "name": "Magik-Lampo",
+    "description": "",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "MagikLampo/Magik-Lampo",
+    "repo_url": "https://MagikLampo.github.io/Magik-Lampo/",
+    "has_system": false
   }
 ]
