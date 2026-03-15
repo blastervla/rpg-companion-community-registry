@@ -207,5 +207,14 @@
     "github_repo": "pranavthepro-sys/Balanced-Homebrew-Subclasses",
     "repo_url": "https://pranavthepro-sys.github.io/Balanced-Homebrew-Subclasses/",
     "has_system": false
+  },
+  {
+    "name": "things-dnd",
+    "description": "",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "liasyaeneonjeagsun-pixel/things-dnd",
+    "repo_url": "https://liasyaeneonjeagsun-pixel.github.io/things-dnd/",
+    "has_system": false
   }
 ]
