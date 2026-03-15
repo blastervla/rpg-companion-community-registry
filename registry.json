@@ -207,5 +207,17 @@
     "github_repo": "pranavthepro-sys/Balanced-Homebrew-Subclasses",
     "repo_url": "https://pranavthepro-sys.github.io/Balanced-Homebrew-Subclasses/",
     "has_system": false
+  },
+  {
+    "name": "RPG-companion-app",
+    "description": "asd",
+    "tags": [
+      "5e",
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "cetub333/RPG-companion-app",
+    "repo_url": "https://cetub333.github.io/RPG-companion-app/",
+    "has_system": false
   }
 ]
