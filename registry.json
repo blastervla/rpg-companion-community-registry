@@ -220,5 +220,17 @@
     "github_repo": "pranavthepro-sys/Balanced-Homebrew-Subclasses",
     "repo_url": "https://pranavthepro-sys.github.io/Balanced-Homebrew-Subclasses/",
     "has_system": false
+  },
+  {
+    "name": "Bearfolk",
+    "description": "I couldn't find a bear race, so here's one with a couple of homebrewed sub-species",
+    "tags": [
+      "5e",
+      "bear"
+    ],
+    "stars": 0,
+    "github_repo": "MalletGreatshield/Bearfolk",
+    "repo_url": "https://MalletGreatshield.github.io/Bearfolk/",
+    "has_system": false
   }
 ]
