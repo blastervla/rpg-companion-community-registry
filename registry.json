@@ -243,5 +243,16 @@
     "github_repo": "Lison-Ja/Eberron-Forge-of-the-Artificer",
     "repo_url": "https://Lison-Ja.github.io/Eberron-Forge-of-the-Artificer/",
     "has_system": false
+  },
+  {
+    "name": "Artificer-",
+    "description": "",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Lison-Ja/Artificer-",
+    "repo_url": "https://Lison-Ja.github.io/Artificer-/",
+    "has_system": false
   }
 ]
