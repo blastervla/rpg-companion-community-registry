@@ -231,5 +231,18 @@
     "github_repo": "MalletGreatshield/Bearfolk",
     "repo_url": "https://MalletGreatshield.github.io/Bearfolk/",
     "has_system": false
+  },
+  {
+    "name": "lantern-class",
+    "description": "DC Universe",
+    "tags": [
+      "5e",
+      "fantasy",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "collierfoxy60-collab/lantern-class",
+    "repo_url": "https://collierfoxy60-collab.github.io/lantern-class/",
+    "has_system": false
   }
 ]
