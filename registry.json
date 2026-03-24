@@ -366,5 +366,18 @@
     "github_repo": "ValdousVirathor/returner-system",
     "repo_url": "https://ValdousVirathor.github.io/returner-system/",
     "has_system": false
+  },
+  {
+    "name": "shadowairs-dnd-things",
+    "description": "this is a mix of all of my homebrew i will post more in here when i make it i usualy run with the system from solo leveling but most of its info is in my discord server ",
+    "tags": [
+      "homebrew",
+      "one-piece",
+      "fantasy"
+    ],
+    "stars": 0,
+    "github_repo": "shad0wair-vanguard/shadowairs-dnd-things",
+    "repo_url": "https://shad0wair-vanguard.github.io/shadowairs-dnd-things/",
+    "has_system": false
   }
 ]
