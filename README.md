@@ -13,7 +13,7 @@ The data lives in [`registry.json`], which is consumed by a small website and by
 
 1. Fork this repository.
 2. Edit `registry.json` and add a new entry:
-
+```
    {
      "id": "unique_id_for_your_repo",
      "name": "Human-readable name",
@@ -23,9 +23,9 @@ The data lives in [`registry.json`], which is consumed by a small website and by
      "github_repo": "yourname/your-repo",  // or null if not hosted on GitHub
      "stars": 0
    }
-
+```
 3. Make sure:
-   - `id` is unique and stable (e.g. `dnd5e_srd`).
+   - `id` is unique and stable (e.g. `5e`).
    - `repo_url` is the URL users must paste into the RPG Companion App.
    - `github_repo` is `owner/name` if your content lives on GitHub, or `null` otherwise.
    - `stars` can be `0` – it will be updated automatically.
