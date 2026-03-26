@@ -195,5 +195,17 @@
     "github_repo": "Violetwolf003-beep/Street-Fighter-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/Street-Fighter-pack/",
     "has_system": false
+  },
+  {
+    "name": "Zelda-Inspired-pack",
+    "description": "Races and items inspired by the legend of Zelda games.",
+    "tags": [
+      "5e",
+      "zelda"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Zelda-Inspired-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Zelda-Inspired-pack/",
+    "has_system": false
   }
 ]
