@@ -391,5 +391,17 @@
     "github_repo": "shad0wair-vanguard/shadowairs-dnd-things",
     "repo_url": "https://shad0wair-vanguard.github.io/shadowairs-dnd-things/",
     "has_system": false
+  },
+  {
+    "name": "homebrew-dnd",
+    "description": "",
+    "tags": [
+      "5e2024",
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "JustinK72/homebrew-dnd",
+    "repo_url": "https://JustinK72.github.io/homebrew-dnd/",
+    "has_system": false
   }
 ]
