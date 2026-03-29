@@ -25,6 +25,18 @@
     "stars": 0
   },
   {
+    "id": "RU-RPG-Companion-App",
+    "name": "RU-5e",
+    "description": "Translated 5e to russian language",
+    "tags": [
+      "fantasy",
+      "5e"
+    ],
+    "repo_url": "https://serfetto.github.io/RU-RPG-Companion-App/",
+    "github_repo": "Serfetto/RU-RPG-Companion-App",
+    "stars": 0
+  },
+  {
     "id": "5e2024HROF",
     "name": "5e 2024 Heroes of Faerûn Companion Data",
     "description": "Subclasses, feats, spells, and backgrounds from 5e 2024 Forgotten Realms: Heroes of Faerûn, formatted for use in the RPG companion app",
