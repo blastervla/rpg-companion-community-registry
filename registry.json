@@ -404,5 +404,16 @@
     "github_repo": "shad0wair-vanguard/shadowairs-dnd-things",
     "repo_url": "https://shad0wair-vanguard.github.io/shadowairs-dnd-things/",
     "has_system": false
+  },
+  {
+    "name": "Pugilist-test",
+    "description": "",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Dragonite27/Pugilist-test",
+    "repo_url": "https://Dragonite27.github.io/Pugilist-test/",
+    "has_system": false
   }
 ]
