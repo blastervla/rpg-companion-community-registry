@@ -404,5 +404,18 @@
     "github_repo": "shad0wair-vanguard/shadowairs-dnd-things",
     "repo_url": "https://shad0wair-vanguard.github.io/shadowairs-dnd-things/",
     "has_system": false
+  },
+  {
+    "name": "Warlock-Dealer-subclass",
+    "description": "a Warlock subclass for those who want to test their luck and manipulate it just a little bit",
+    "tags": [
+      "homebrew",
+      "5e2024",
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "TheShrinch/Warlock-Dealer-subclass",
+    "repo_url": "https://TheShrinch.github.io/Warlock-Dealer-subclass/",
+    "has_system": false
   }
 ]
