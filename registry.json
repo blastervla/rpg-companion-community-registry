@@ -417,5 +417,17 @@
     "github_repo": "TheShrinch/Warlock-Dealer-subclass",
     "repo_url": "https://TheShrinch.github.io/Warlock-Dealer-subclass/",
     "has_system": false
+  },
+  {
+    "name": "Artificer-Class",
+    "description": "Port from class with custom subclases",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Hezenael/Artificer-Class",
+    "repo_url": "https://Hezenael.github.io/Artificer-Class/",
+    "has_system": false
   }
 ]
