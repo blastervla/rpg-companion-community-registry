@@ -419,6 +419,18 @@
     "has_system": false
   },
   {
+    "name": "Artificer-Class",
+    "description": "Port from class with custom subclases",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Hezenael/Artificer-Class",
+    "repo_url": "https://Hezenael.github.io/Artificer-Class/",
+    "has_system": false
+  },
+  {
     "name": "Villain-Unearthed-Arcana",
     "description": "4 Subclasses Cleric, Druid, Fighter, Sorcerer",
     "tags": [
