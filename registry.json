@@ -417,5 +417,16 @@
     "github_repo": "TheShrinch/Warlock-Dealer-subclass",
     "repo_url": "https://TheShrinch.github.io/Warlock-Dealer-subclass/",
     "has_system": false
+  },
+  {
+    "name": "Villain-Unearthed-Arcana",
+    "description": "4 Subclasses Cleric, Druid, Fighter, Sorcerer",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "lonestranger81/Villain-Unearthed-Arcana",
+    "repo_url": "https://lonestranger81.github.io/Villain-Unearthed-Arcana/",
+    "has_system": false
   }
 ]
