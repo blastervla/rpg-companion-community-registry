@@ -440,5 +440,17 @@
     "github_repo": "lonestranger81/Villain-Unearthed-Arcana",
     "repo_url": "https://lonestranger81.github.io/Villain-Unearthed-Arcana/",
     "has_system": false
+  },
+  {
+    "name": "Ultrakill",
+    "description": "Weapon, arms, race and class are all inspired by ULTRAKILL",
+    "tags": [
+      "5e",
+      "ultrakill"
+    ],
+    "stars": 0,
+    "github_repo": "KorvenDark/Ultrakill",
+    "repo_url": "https://KorvenDark.github.io/Ultrakill/",
+    "has_system": false
   }
 ]
