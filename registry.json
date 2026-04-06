@@ -465,5 +465,19 @@
     "github_repo": "KorvenDark/Ultrakill",
     "repo_url": "https://KorvenDark.github.io/Ultrakill/",
     "has_system": false
+  },
+  {
+    "name": "Symphonia-1e",
+    "description": "The first of the symphonia set of items avalible to use! combine thier heavenly sound for a mystical and music filled campaign!",
+    "tags": [
+      "5e",
+      "5e2024",
+      "one-shot",
+      "music"
+    ],
+    "stars": 0,
+    "github_repo": "SumgoodPI/Symphonia-1e",
+    "repo_url": "https://SumgoodPI.github.io/Symphonia-1e/",
+    "has_system": false
   }
 ]
