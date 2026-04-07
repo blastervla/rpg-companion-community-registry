@@ -478,5 +478,16 @@
     "github_repo": "SumgoodPI/Symphonia-1e",
     "repo_url": "https://SumgoodPI.github.io/Symphonia-1e/",
     "has_system": false
+  },
+  {
+    "name": "popopopo",
+    "description": "popopopopopopopopopo",
+    "tags": [
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "williamwolf92/popopopo",
+    "repo_url": "https://williamwolf92.github.io/popopopo/",
+    "has_system": false
   }
 ]
