@@ -483,12 +483,21 @@
     "name": "New-Underdark-Monster",
     "description": "These monsters hunt either solo or in packs of 3-5 (There Family). They feast on humanoids and even baby shadow dragons. They are highly I teligent and add a great threat to tour world",
     "tags": [
-        "5e",
-        "homebrew"
+      "5e",
+      "homebrew"
     ],
     "stars": 0,
     "github_repo": "XenoPlank/New-Underdark-Monster",
     "repo_url": "https://XenoPlank.github.io/New-Underdark-Monster/",
+    "has_system": false
+  },
+  {
+    "name": "A-bunch-of-new-fun-playable-races-inspired-by-monsters",
+    "description": "As a DM, I found a lot of monsters that I thought would make some fun playable races. my personal favorite are the verdan. they are merchant like beetlefolk with 4 archetypes each fun and flavorful giving a whole new experience every time",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "XenoPlank/A-bunch-of-new-fun-playable-races-inspired-by-monsters",
+    "repo_url": "https://XenoPlank.github.io/A-bunch-of-new-fun-playable-races-inspired-by-monsters/",
     "has_system": false
   }
 ]
