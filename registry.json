@@ -499,5 +499,14 @@
     "github_repo": "XenoPlank/A-bunch-of-new-fun-playable-races-inspired-by-monsters",
     "repo_url": "https://XenoPlank.github.io/A-bunch-of-new-fun-playable-races-inspired-by-monsters/",
     "has_system": false
+  },
+  {
+    "name": "Vedalkin",
+    "description": "Vedalkin, a playable beetle-folk race known for there skill with words and reliability",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "XenoPlank/Vedalkin",
+    "repo_url": "https://XenoPlank.github.io/Vedalkin/",
+    "has_system": false
   }
 ]
