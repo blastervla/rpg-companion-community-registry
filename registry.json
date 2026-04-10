@@ -10,7 +10,7 @@
     ],
     "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
     "github_repo": "blastervla/rpg-companion-app-systems",
-    "stars": 8
+    "stars": 9
   },
   {
     "id": "subclasses_2024",
@@ -494,7 +494,10 @@
   {
     "name": "A-bunch-of-new-fun-playable-races-inspired-by-monsters",
     "description": "As a DM, I found a lot of monsters that I thought would make some fun playable races. my personal favorite are the verdan. they are merchant like beetlefolk with 4 archetypes each fun and flavorful giving a whole new experience every time",
-    "tags": [],
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
     "stars": 0,
     "github_repo": "XenoPlank/A-bunch-of-new-fun-playable-races-inspired-by-monsters",
     "repo_url": "https://XenoPlank.github.io/A-bunch-of-new-fun-playable-races-inspired-by-monsters/",
@@ -503,7 +506,10 @@
   {
     "name": "Vedalkin",
     "description": "Vedalkin, a playable beetle-folk race known for there skill with words and reliability",
-    "tags": [],
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
     "stars": 0,
     "github_repo": "XenoPlank/Vedalkin",
     "repo_url": "https://XenoPlank.github.io/Vedalkin/",
