@@ -514,5 +514,20 @@
     "github_repo": "XenoPlank/Vedalkin",
     "repo_url": "https://XenoPlank.github.io/Vedalkin/",
     "has_system": false
+  },
+  {
+    "name": "Treantmonk-s-Homebrew-Ranger-Buffs",
+    "description": "Treantmonk's proposed buffs to the Ranger class, subclasses, and spells",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "treantmonk",
+      "ranger",
+      "buff"
+    ],
+    "stars": 0,
+    "github_repo": "ThrawnIsAlive/Treantmonk-s-Homebrew-Ranger-Buffs",
+    "repo_url": "https://ThrawnIsAlive.github.io/Treantmonk-s-Homebrew-Ranger-Buffs/",
+    "has_system": false
   }
 ]
