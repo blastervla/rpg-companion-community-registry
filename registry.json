@@ -516,14 +516,34 @@
     "has_system": false
   },
   {
+    "name": "half-elf-hobgoblin-and-merfolk-update",
+    "description": "added Half elf subspecies, hobgoblins and merfolk.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "lunaeclipsa2810/half-elf-hobgoblin-and-merfolk-update",
+    "repo_url": "https://lunaeclipsa2810.github.io/half-elf-hobgoblin-and-merfolk-update/",
+    "has_system": false
+  },
+  {
+    "name": "merfolk-and-Hobgoblin",
+    "description": "attempted to add merfolk and Hobgoblin",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "lunaeclipsa2810/merfolk-and-Hobgoblin",
+    "repo_url": "https://lunaeclipsa2810.github.io/merfolk-and-Hobgoblin/",
+    "has_system": false
+  },
+  {
     "name": "Treantmonk-s-Homebrew-Ranger-Buffs",
     "description": "Treantmonk's proposed buffs to the Ranger class, subclasses, and spells",
     "tags": [
       "5e2024",
       "homebrew",
-      "treantmonk",
-      "ranger",
-      "buff"
+      "ranger"
     ],
     "stars": 0,
     "github_repo": "ThrawnIsAlive/Treantmonk-s-Homebrew-Ranger-Buffs",
