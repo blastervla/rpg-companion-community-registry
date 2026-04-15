@@ -391,5 +391,14 @@
     "github_repo": "JustinK72/homebrew-dnd",
     "repo_url": "https://JustinK72.github.io/homebrew-dnd/",
     "has_system": false
+  },
+  {
+    "name": "test-5e-weapon",
+    "description": "this is a test for the 5e weapon",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "JustinK72/test-5e-weapon",
+    "repo_url": "https://JustinK72.github.io/test-5e-weapon/",
+    "has_system": false
   }
 ]
