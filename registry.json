@@ -565,11 +565,20 @@
     "name": "Rival-the-gods-in-",
     "description": "Rival the gods in order to usurp them and rule as a fairer ",
     "tags": [
-        "5e2024"
+      "5e2024"
     ],
     "stars": 0,
     "github_repo": "ethearia123/Rival-the-gods-in-",
     "repo_url": "https://ethearia123.github.io/Rival-the-gods-in-/",
+    "has_system": false
+  },
+  {
+    "name": "Haven-Homebrew",
+    "description": "All things made for the Haven campaign",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "OnyxInTheEyes/Haven-Homebrew",
+    "repo_url": "https://OnyxInTheEyes.github.io/Haven-Homebrew/",
     "has_system": false
   }
 ]
