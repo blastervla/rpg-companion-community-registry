@@ -580,5 +580,17 @@
     "github_repo": "OnyxInTheEyes/Haven-Homebrew",
     "repo_url": "https://OnyxInTheEyes.github.io/Haven-Homebrew/",
     "has_system": false
+  },
+  {
+    "name": "Eldritch-Adept",
+    "description": "Just Eldritch Adept cuz its not in 5.5",
+    "tags": [
+      "5e",
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "zxphel/Eldritch-Adept",
+    "repo_url": "https://zxphel.github.io/Eldritch-Adept/",
+    "has_system": false
   }
 ]
