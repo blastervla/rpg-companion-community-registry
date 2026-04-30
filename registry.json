@@ -592,5 +592,16 @@
     "github_repo": "zxphel/Eldritch-Adept",
     "repo_url": "https://zxphel.github.io/Eldritch-Adept/",
     "has_system": false
+  },
+  {
+    "name": "gambling-time",
+    "description": "a fully flesh nonmagical gambler",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Azrael-Battles/gambling-time",
+    "repo_url": "https://Azrael-Battles.github.io/gambling-time/",
+    "has_system": false
   }
 ]
