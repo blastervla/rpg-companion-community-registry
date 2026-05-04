@@ -603,5 +603,16 @@
     "github_repo": "Azrael-Battles/gambling-time",
     "repo_url": "https://Azrael-Battles.github.io/gambling-time/",
     "has_system": false
+  },
+  {
+    "name": "Atlas-Frontiers",
+    "description": "Personal campaign stuff. Wild western, ATLAS.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Pyr0Gnous/Atlas-Frontiers",
+    "repo_url": "https://Pyr0Gnous.github.io/Atlas-Frontiers/",
+    "has_system": false
   }
 ]
