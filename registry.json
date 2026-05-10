@@ -1485,5 +1485,18 @@
     "github_repo": "Junk-Pyle/5e-Fighting-Styles",
     "repo_url": "https://Junk-Pyle.github.io/5e-Fighting-Styles/",
     "has_system": false
+  },
+  {
+    "name": "homebrews",
+    "description": "hbs para eu fazer fichas",
+    "tags": [
+      "5e",
+      "5e2024",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Flumphtg/homebrews",
+    "repo_url": "https://Flumphtg.github.io/homebrews/",
+    "has_system": false
   }
 ]
