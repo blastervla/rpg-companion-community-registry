@@ -1498,5 +1498,16 @@
     "github_repo": "ygdradishil/Kingdom-Hearts-5e-overhaul-",
     "repo_url": "https://ygdradishil.github.io/Kingdom-Hearts-5e-overhaul-/",
     "has_system": false
+  },
+  {
+    "name": "Common-languages",
+    "description": "This just allows you to pick 3 common languages for your character ",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Holyprince32/Common-languages",
+    "repo_url": "https://Holyprince32.github.io/Common-languages/",
+    "has_system": false
   }
 ]
