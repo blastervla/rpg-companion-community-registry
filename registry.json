@@ -627,5 +627,17 @@
     "github_repo": "turtl230-code/Gunslinger-class-and-weapons-with-bullets",
     "repo_url": "https://turtl230-code.github.io/Gunslinger-class-and-weapons-with-bullets/",
     "has_system": false
+  },
+  {
+    "name": "Frieren-spells-and-Essentialist-class",
+    "description": "here's a wizard subclass called the essentialist, a frieren based subclass, and 3 of the more outstanding spells from the series, being Zoltrak, Sorganiel, and Reilziden",
+    "tags": [
+      "5e2024",
+      "frieren"
+    ],
+    "stars": 0,
+    "github_repo": "turtl230-code/Frieren-spells-and-Essentialist-class",
+    "repo_url": "https://turtl230-code.github.io/Frieren-spells-and-Essentialist-class/",
+    "has_system": false
   }
 ]
