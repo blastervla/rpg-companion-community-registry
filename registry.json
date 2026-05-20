@@ -1521,5 +1521,17 @@
     "github_repo": "turtl230-code/Frieren-spells-and-Essentialist-class",
     "repo_url": "https://turtl230-code.github.io/Frieren-spells-and-Essentialist-class/",
     "has_system": false
+  },
+  {
+    "name": "Lichdom-ascension-feats",
+    "description": "This one's pretty simple, some feats to mimic the abilities of and to become a lich as a player character",
+    "tags": [
+      "5e2024",
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "turtl230-code/Lichdom-ascension-feats",
+    "repo_url": "https://turtl230-code.github.io/Lichdom-ascension-feats/",
+    "has_system": false
   }
 ]
