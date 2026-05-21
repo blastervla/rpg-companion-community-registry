@@ -1523,6 +1523,18 @@
     "has_system": false
   },
   {
+    "name": "Ryu-s-Extended-5e-compendium",
+    "description": "Homebrew One DnD content added to the 5e system",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Ryu-Krynn/Ryu-s-Extended-5e-compendium",
+    "repo_url": "https://Ryu-Krynn.github.io/Ryu-s-Extended-5e-compendium/",
+    "has_system": false
+  },
+  {
     "name": "Lichdom-ascension-feats",
     "description": "This one's pretty simple, some feats to mimic the abilities of and to become a lich as a player character",
     "tags": [
