@@ -1635,5 +1635,16 @@
     "github_repo": "zaezaegoincraycray/Solum-Paladin-Oath",
     "repo_url": "https://zaezaegoincraycray.github.io/Solum-Paladin-Oath/",
     "has_system": false
+  },
+  {
+    "name": "Misfit-Campaign",
+    "description": "items for my custom campaign",
+    "tags": [
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "moonlittigrr/Misfit-Campaign",
+    "repo_url": "https://moonlittigrr.github.io/Misfit-Campaign/",
+    "has_system": false
   }
 ]
