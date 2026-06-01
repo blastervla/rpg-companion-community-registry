@@ -1659,5 +1659,18 @@
     "github_repo": "j11barton-lab/some-monster-ideas",
     "repo_url": "https://j11barton-lab.github.io/some-monster-ideas/",
     "has_system": false
+  },
+  {
+    "name": "oozekin-helianas",
+    "description": "Oozekin race from Heliana’s Guide to Monster Hunting",
+    "tags": [
+      "5e",
+      "race",
+      "hgmh"
+    ],
+    "stars": 0,
+    "github_repo": "kzh6r28bft-droid/oozekin-helianas",
+    "repo_url": "https://kzh6r28bft-droid.github.io/oozekin-helianas/",
+    "has_system": false
   }
 ]
