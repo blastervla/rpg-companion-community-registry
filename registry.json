@@ -1646,5 +1646,18 @@
     "github_repo": "moonlittigrr/Misfit-Campaign",
     "repo_url": "https://moonlittigrr.github.io/Misfit-Campaign/",
     "has_system": false
+  },
+  {
+    "name": "some-monster-ideas",
+    "description": "just some monster ideas I came up with. I may add more in the future ",
+    "tags": [
+      "5e",
+      "monsters",
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "j11barton-lab/some-monster-ideas",
+    "repo_url": "https://j11barton-lab.github.io/some-monster-ideas/",
+    "has_system": false
   }
 ]
