@@ -1684,5 +1684,16 @@
     "github_repo": "MunkiDXin/The-Brew",
     "repo_url": "https://MunkiDXin.github.io/The-Brew/",
     "has_system": false
+  },
+  {
+    "name": "Rev-s-Campaign-Dump",
+    "description": "Compendium of self created and borrowed homebrew from various sites for my campaigns. this is just here to make it easier to send stuff",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Revenant-cpu/Rev-s-Campaign-Dump",
+    "repo_url": "https://Revenant-cpu.github.io/Rev-s-Campaign-Dump/",
+    "has_system": false
   }
 ]
