@@ -1684,5 +1684,18 @@
     "github_repo": "MunkiDXin/The-Brew",
     "repo_url": "https://MunkiDXin.github.io/The-Brew/",
     "has_system": false
+  },
+  {
+    "name": "WorldLance",
+    "description": "My very own campaing",
+    "tags": [
+      "5e2024",
+      "monsters",
+      "lance"
+    ],
+    "stars": 0,
+    "github_repo": "WorldLance/WorldLance",
+    "repo_url": "https://WorldLance.github.io/WorldLance/",
+    "has_system": false
   }
 ]
