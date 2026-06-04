@@ -1684,5 +1684,18 @@
     "github_repo": "MunkiDXin/The-Brew",
     "repo_url": "https://MunkiDXin.github.io/The-Brew/",
     "has_system": false
+  },
+  {
+    "name": "Star-Wars-campaign-setting",
+    "description": "my first upload not balanced it has vehicles, weapons, force abilities, and enemies for both empire and rebels",
+    "tags": [
+      "5e",
+      "homebrew",
+      "star-wars"
+    ],
+    "stars": 0,
+    "github_repo": "4mcncs2bk5-ship-it/Star-Wars-campaign-setting",
+    "repo_url": "https://4mcncs2bk5-ship-it.github.io/Star-Wars-campaign-setting/",
+    "has_system": false
   }
 ]
