@@ -249,5 +249,26 @@
     "github_repo": "MalletGreatshield/Half-Orc-Dwarf",
     "repo_url": "https://MalletGreatshield.github.io/Half-Orc-Dwarf/",
     "has_system": false
+  },
+  {
+    "name": "Fangbreaker",
+    "description": "silvered Warhammer safe enough to be used by those touched by lycanthropy.",
+    "tags": [
+      "heroes-of-faerun",
+      "5e",
+      "5e2024",
+      "forgotten-realms",
+      "fantasy",
+      "homebrew",
+      "silver",
+      "hammer",
+      "warhammer",
+      "cleric",
+      "holy-symbol"
+    ],
+    "stars": 0,
+    "github_repo": "MalletGreatshield/Fangbreaker",
+    "repo_url": "https://MalletGreatshield.github.io/Fangbreaker/",
+    "has_system": false
   }
 ]
