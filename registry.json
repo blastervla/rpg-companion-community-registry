@@ -1697,5 +1697,18 @@
     "github_repo": "4mcncs2bk5-ship-it/Star-Wars-campaign-setting",
     "repo_url": "https://4mcncs2bk5-ship-it.github.io/Star-Wars-campaign-setting/",
     "has_system": false
+  },
+  {
+    "name": "hombrewed-class-gliph-artist",
+    "description": "a class designed around written magic",
+    "tags": [
+      "5e",
+      "class",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "britton54-commits/hombrewed-class-gliph-artist",
+    "repo_url": "https://britton54-commits.github.io/hombrewed-class-gliph-artist/",
+    "has_system": false
   }
 ]
