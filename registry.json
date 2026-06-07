@@ -231,5 +231,23 @@
     "github_repo": "MalletGreatshield/Bearfolk",
     "repo_url": "https://MalletGreatshield.github.io/Bearfolk/",
     "has_system": false
+  },
+  {
+    "name": "Half-Orc-Dwarf",
+    "description": "Hybrid character for homebrew",
+    "tags": [
+      "5e",
+      "5e2024",
+      "forgotten-realms",
+      "heroes-of-faerun",
+      "homemade",
+      "homebrew",
+      "orc",
+      "dwarf"
+    ],
+    "stars": 0,
+    "github_repo": "MalletGreatshield/Half-Orc-Dwarf",
+    "repo_url": "https://MalletGreatshield.github.io/Half-Orc-Dwarf/",
+    "has_system": false
   }
 ]
