@@ -6,11 +6,13 @@
     "tags": [
       "fantasy",
       "5e",
-      "5e2024"
+      "5e2024",
+      "pf2e"
     ],
     "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
     "github_repo": "blastervla/rpg-companion-app-systems",
-    "stars": 7
+    "stars": 9,
+    "has_system": true
   },
   {
     "id": "subclasses_2024",
@@ -25,6 +27,19 @@
     "stars": 0
   },
   {
+    "id": "RU-RPG-Companion-App",
+    "name": "RU-5e",
+    "description": "Translated 5e to russian language",
+    "tags": [
+      "fantasy",
+      "5e"
+    ],
+    "repo_url": "https://serfetto.github.io/RU-RPG-Companion-App/",
+    "github_repo": "Serfetto/RU-RPG-Companion-App",
+    "stars": 0,
+    "has_system": true
+  },
+  {
     "id": "5e2024HROF",
     "name": "5e 2024 Heroes of Faerûn Companion Data",
     "description": "Subclasses, feats, spells, and backgrounds from 5e 2024 Forgotten Realms: Heroes of Faerûn, formatted for use in the RPG companion app",
@@ -36,7 +51,7 @@
     ],
     "repo_url": "https://toothy-nineveth.github.io/5e2024HROF",
     "github_repo": "Toothy-Nineveth/5e2024HROF",
-    "stars": 2
+    "stars": 3
   },
   {
     "name": "5e-backup",
@@ -98,7 +113,7 @@
       "5e",
       "chainsaw-man"
     ],
-    "stars": 0,
+    "stars": 1,
     "github_repo": "Violetwolf003-beep/Chainsaw-Man-Ideas",
     "repo_url": "https://Violetwolf003-beep.github.io/Chainsaw-Man-Ideas/",
     "has_system": false
@@ -170,7 +185,7 @@
       "5e",
       "one-piece"
     ],
-    "stars": 0,
+    "stars": 1,
     "github_repo": "Violetwolf003-beep/One-piece-inspired-pack",
     "repo_url": "https://Violetwolf003-beep.github.io/One-piece-inspired-pack/",
     "has_system": false
@@ -210,6 +225,18 @@
     "has_system": false
   },
   {
+    "name": "Zelda-Inspired-pack",
+    "description": "Races and items inspired by the legend of Zelda games.",
+    "tags": [
+      "5e",
+      "zelda"
+    ],
+    "stars": 0,
+    "github_repo": "Violetwolf003-beep/Zelda-Inspired-pack",
+    "repo_url": "https://Violetwolf003-beep.github.io/Zelda-Inspired-pack/",
+    "has_system": false
+  },
+  {
     "name": "Balanced-Homebrew-Subclasses",
     "description": "Includes balanced, fun homebrew subclasses by me for Warlocks (2), Monks (2), Fighters (1) and Druids (1)!",
     "tags": [
@@ -233,17 +260,1465 @@
     "has_system": false
   },
   {
+    "name": "Eberron-forge-of-the-artificer",
+    "description": "All content from the forge",
+    "tags": [
+      "5e2024",
+      "fantasy"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/Eberron-forge-of-the-artificer",
+    "repo_url": "https://DMRocketMaster.github.io/Eberron-forge-of-the-artificer/",
+    "has_system": false
+  },
+  {
+    "name": "The-Delian-Tomb-5.5",
+    "description": "Everything you need to run The Delian Tomb in 5e '24 including encounter templates, goblin shaman and the Goblin Slayer Longsword.",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "one-shot"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/The-Delian-Tomb-5.5",
+    "repo_url": "https://DMRocketMaster.github.io/The-Delian-Tomb-5.5/",
+    "has_system": false
+  },
+  {
+    "name": "lantern-class",
+    "description": "DC Universe",
+    "tags": [
+      "5e",
+      "fantasy",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "collierfoxy60-collab/lantern-class",
+    "repo_url": "https://collierfoxy60-collab.github.io/lantern-class/",
+    "has_system": false
+  },
+  {
+    "name": "Battlezoo Ancestries Dragons+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 2,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Tome of Heros+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 2,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Book of Ebon Tides+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 2,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Grand Species Almanac+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 2,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Homblewood+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 2,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Myconid Race+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 2,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Valdas Spire of Secrets+",
+    "description": "Battlezoo Ancestries Dragons, tome of heros, book of ebon tides, Grand Species Almanac, homblewood, Myconid Race, Valdas Spire of Secrets",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 2,
+    "github_repo": "derpsyhome/3rd-party-books-for-5e",
+    "repo_url": "https://derpsyhome.github.io/3rd-party-books-for-5e/",
+    "has_system": false
+  },
+  {
+    "name": "Obojima Players Core",
+    "description": "Obojima Corebook for players containing spells, races, backgrounds and background bound items, source tag and classes",
+    "tags": [
+      "5e",
+      "fantasy",
+      "zelda",
+      "ghibli"
+    ],
+    "stars": 2,
+    "github_repo": "AcidFoxAlpha/Obojima-core-set",
+    "repo_url": "https://AcidFoxAlpha.github.io/Obojima-core-set/",
+    "has_system": false
+  },
+  {
+    "name": "returner-system",
+    "description": "homebrew based on 5e and a book series ",
+    "tags": [
+      "5e2024",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "ValdousVirathor/returner-system",
+    "repo_url": "https://ValdousVirathor.github.io/returner-system/",
+    "has_system": false
+  },
+  {
+    "name": "shadowairs-dnd-things",
+    "description": "this is a mix of all of my homebrew i will post more in here when i make it i usualy run with the system from solo leveling but most of its info is in my discord server ",
+    "tags": [
+      "homebrew",
+      "one-piece",
+      "fantasy"
+    ],
+    "stars": 0,
+    "github_repo": "shad0wair-vanguard/shadowairs-dnd-things",
+    "repo_url": "https://shad0wair-vanguard.github.io/shadowairs-dnd-things/",
+    "has_system": false
+  },
+  {
+    "name": "Warlock-Dealer-subclass",
+    "description": "a Warlock subclass for those who want to test their luck and manipulate it just a little bit",
+    "tags": [
+      "homebrew",
+      "5e2024",
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "TheShrinch/Warlock-Dealer-subclass",
+    "repo_url": "https://TheShrinch.github.io/Warlock-Dealer-subclass/",
+    "has_system": false
+  },
+  {
+    "name": "Artificer-Class",
+    "description": "Port from class with custom subclases",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Hezenael/Artificer-Class",
+    "repo_url": "https://Hezenael.github.io/Artificer-Class/",
+    "has_system": false
+  },
+  {
+    "name": "Villain-Unearthed-Arcana",
+    "description": "4 Subclasses Cleric, Druid, Fighter, Sorcerer",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 1,
+    "github_repo": "lonestranger81/Villain-Unearthed-Arcana",
+    "repo_url": "https://lonestranger81.github.io/Villain-Unearthed-Arcana/",
+    "has_system": false
+  },
+  {
+    "name": "Ultrakill",
+    "description": "Weapon, arms, race and class are all inspired by ULTRAKILL",
+    "tags": [
+      "5e",
+      "ultrakill"
+    ],
+    "stars": 0,
+    "github_repo": "KorvenDark/Ultrakill",
+    "repo_url": "https://KorvenDark.github.io/Ultrakill/",
+    "has_system": false
+  },
+  {
+    "name": "Symphonia-1e",
+    "description": "The first of the symphonia set of items avalible to use! combine thier heavenly sound for a mystical and music filled campaign!",
+    "tags": [
+      "5e",
+      "one-shot",
+      "music"
+    ],
+    "stars": 0,
+    "github_repo": "SumgoodPI/Symphonia-1e",
+    "repo_url": "https://SumgoodPI.github.io/Symphonia-1e/",
+    "has_system": false
+  },
+  {
+    "name": "New-Underdark-Monster",
+    "description": "These monsters hunt either solo or in packs of 3-5 (There Family). They feast on humanoids and even baby shadow dragons. They are highly I teligent and add a great threat to tour world",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "XenoPlank/New-Underdark-Monster",
+    "repo_url": "https://XenoPlank.github.io/New-Underdark-Monster/",
+    "has_system": false
+  },
+  {
+    "name": "A-bunch-of-new-fun-playable-races-inspired-by-monsters",
+    "description": "As a DM, I found a lot of monsters that I thought would make some fun playable races. my personal favorite are the verdan. they are merchant like beetlefolk with 4 archetypes each fun and flavorful giving a whole new experience every time",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "XenoPlank/A-bunch-of-new-fun-playable-races-inspired-by-monsters",
+    "repo_url": "https://XenoPlank.github.io/A-bunch-of-new-fun-playable-races-inspired-by-monsters/",
+    "has_system": false
+  },
+  {
+    "name": "Vedalkin",
+    "description": "Vedalkin, a playable beetle-folk race known for there skill with words and reliability",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "XenoPlank/Vedalkin",
+    "repo_url": "https://XenoPlank.github.io/Vedalkin/",
+    "has_system": false
+  },
+  {
+    "name": "half-elf-hobgoblin-and-merfolk-update",
+    "description": "added Half elf subspecies, hobgoblins and merfolk.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "lunaeclipsa2810/half-elf-hobgoblin-and-merfolk-update",
+    "repo_url": "https://lunaeclipsa2810.github.io/half-elf-hobgoblin-and-merfolk-update/",
+    "has_system": false
+  },
+  {
+    "name": "merfolk-and-Hobgoblin",
+    "description": "attempted to add merfolk and Hobgoblin",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "lunaeclipsa2810/merfolk-and-Hobgoblin",
+    "repo_url": "https://lunaeclipsa2810.github.io/merfolk-and-Hobgoblin/",
+    "has_system": false
+  },
+  {
+    "name": "Treantmonk-s-Homebrew-Ranger-Buffs",
+    "description": "Treantmonk's proposed buffs to the Ranger class, subclasses, and spells",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "ranger"
+    ],
+    "stars": 0,
+    "github_repo": "ThrawnIsAlive/Treantmonk-s-Homebrew-Ranger-Buffs",
+    "repo_url": "https://ThrawnIsAlive.github.io/Treantmonk-s-Homebrew-Ranger-Buffs/",
+    "has_system": false
+  },
+  {
+    "name": "leonin-species",
+    "description": "this is the leonin race from 5e",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "ethearia123/leonin-species",
+    "repo_url": "https://ethearia123.github.io/leonin-species/",
+    "has_system": false
+  },
+  {
+    "name": "Rival-the-gods-in-",
+    "description": "Rival the gods in order to usurp them and rule as a fairer ",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "ethearia123/Rival-the-gods-in-",
+    "repo_url": "https://ethearia123.github.io/Rival-the-gods-in-/",
+    "has_system": false
+  },
+  {
+    "name": "Haven-Homebrew",
+    "description": "All things made for the Haven campaign",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "OnyxInTheEyes/Haven-Homebrew",
+    "repo_url": "https://OnyxInTheEyes.github.io/Haven-Homebrew/",
+    "has_system": false
+  },
+  {
+    "name": "Eldritch-Adept",
+    "description": "Just Eldritch Adept cuz its not in 5.5",
+    "tags": [
+      "5e",
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "zxphel/Eldritch-Adept",
+    "repo_url": "https://zxphel.github.io/Eldritch-Adept/",
+    "has_system": false
+  },
+  {
+    "name": "gambling-time",
+    "description": "a fully flesh nonmagical gambler",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Azrael-Battles/gambling-time",
+    "repo_url": "https://Azrael-Battles.github.io/gambling-time/",
+    "has_system": false
+  },
+  {
+    "name": "Atlas-Frontiers",
+    "description": "Personal campaign stuff. Wild western, ATLAS.",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Pyr0Gnous/Atlas-Frontiers",
+    "repo_url": "https://Pyr0Gnous.github.io/Atlas-Frontiers/",
+    "has_system": false
+  },
+  {
+    "name": "Gunslinger-class-and-weapons-with-bullets",
+    "description": "This repository is for a Gunner class i liked from 'Zamans guide to the end of time (and how to fix it) all credits go to them and I've turned it into a repository for everyone to use. Please forgive any weird typos or anything as I hand typed it all and changed some names of things and such. Please support 'Zamans guide to the end of time' ",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "cowboy"
+    ],
+    "stars": 0,
+    "github_repo": "turtl230-code/Gunslinger-class-and-weapons-with-bullets",
+    "repo_url": "https://turtl230-code.github.io/Gunslinger-class-and-weapons-with-bullets/",
+    "has_system": false
+  },
+  {
+    "id": "pf2e-legacy-core",
+    "name": "PF2e Legacy Core",
+    "description": "Legacy pre-remaster PF2e core stack.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-legacy-core/",
+    "github_repo": "blastervla/pf2e-legacy-core",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-7dfs0",
+    "name": "PF2e Source: Seven Dooms for Sandpoint Player's Guide",
+    "description": "PF2e content pack for source Seven Dooms for Sandpoint Player's Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-7dfs0/",
+    "github_repo": "blastervla/pf2e-src-7dfs0",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-aaws",
+    "name": "PF2e Source: Azarketi Ancestry Web Supplement",
+    "description": "PF2e content pack for source Azarketi Ancestry Web Supplement.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-aaws/",
+    "github_repo": "blastervla/pf2e-src-aaws",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-affm",
+    "name": "PF2e Source: A Few Flowers More",
+    "description": "PF2e content pack for source A Few Flowers More.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-affm/",
+    "github_repo": "blastervla/pf2e-src-affm",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-afof",
+    "name": "PF2e Source: A Fistful of Flowers",
+    "description": "PF2e content pack for source A Fistful of Flowers.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-afof/",
+    "github_repo": "blastervla/pf2e-src-afof",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-aoa",
+    "name": "PF2e Source Bundle: AOA",
+    "description": "PF2e source-series bundle for Age of Ashes Player's Guide, Age of Ashes #1: Hellknight Hill, Age of Ashes #2: Cult of Cinders, Age of Ashes #3: Tomorrow Must Burn, Age of Ashes #4: Fires of the Haunted City, Age of Ashes #5: Against the Scarlet Triad, Age of Ashes #6: Broken Promises.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-aoa/",
+    "github_repo": "blastervla/pf2e-src-aoa",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-aoe",
+    "name": "PF2e Source Bundle: AOE",
+    "description": "PF2e source-series bundle for Agents of Edgewatch Player's Guide, Agents of Edgewatch #1: Devil at the Dreaming Palace, Agents of Edgewatch #2: Sixty Feet Under, Agents of Edgewatch #3: All or Nothing, Agents of Edgewatch #4: Assault on Hunting Lodge Seven, Agents of Edgewatch #5: Belly of the Black Whale, Agents of Edgewatch #6: Ruins of the Radiant Siege.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-aoe/",
+    "github_repo": "blastervla/pf2e-src-aoe",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-av",
+    "name": "PF2e Source Bundle: AV",
+    "description": "PF2e source-series bundle for Abomination Vaults Player's Guide, Abomination Vaults #1: Ruins of Gauntlight, Abomination Vaults #2: Hands of the Devil, Abomination Vaults #3: Eyes of Empty Death.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-av/",
+    "github_repo": "blastervla/pf2e-src-av",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-bb",
+    "name": "PF2e Source: Beginner Box",
+    "description": "PF2e content pack for source Beginner Box.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-bb/",
+    "github_repo": "blastervla/pf2e-src-bb",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-bl0",
+    "name": "PF2e Source: Blood Lords Player's Guide",
+    "description": "PF2e content pack for source Blood Lords Player's Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-bl0/",
+    "github_repo": "blastervla/pf2e-src-bl0",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-botd",
+    "name": "PF2e Source: Book of the Dead",
+    "description": "PF2e content pack for source Book of the Dead.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-botd/",
+    "github_repo": "blastervla/pf2e-src-botd",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-cc0",
+    "name": "PF2e Source: Curtain Call Player's Guide",
+    "description": "PF2e content pack for source Curtain Call Player's Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-cc0/",
+    "github_repo": "blastervla/pf2e-src-cc0",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-cott",
+    "name": "PF2e Source: Claws of the Tyrant",
+    "description": "PF2e content pack for source Claws of the Tyrant.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-cott/",
+    "github_repo": "blastervla/pf2e-src-cott",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-da",
+    "name": "PF2e Source: Dark Archive",
+    "description": "PF2e content pack for source Dark Archive.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-da/",
+    "github_repo": "blastervla/pf2e-src-da",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-dall",
+    "name": "PF2e Source: Dinner at Lionlodge",
+    "description": "PF2e content pack for source Dinner at Lionlodge.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-dall/",
+    "github_repo": "blastervla/pf2e-src-dall",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-ec",
+    "name": "PF2e Source Bundle: EC",
+    "description": "PF2e source-series bundle for Extinction Curse Player's Guide, Extinction Curse #1: The Show Must Go On, Extinction Curse #2: Legacy of the Lost God, Extinction Curse #3: Life's Long Shadows, Extinction Curse #4: Siege of the Dinosaurs, Extinction Curse #5: Lord of the Black Sands, Extinction Curse #6: The Apocalypse Prophet.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-ec/",
+    "github_repo": "blastervla/pf2e-src-ec",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-fop",
+    "name": "PF2e Source: The Fall of Plaguestone",
+    "description": "PF2e content pack for source The Fall of Plaguestone.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-fop/",
+    "github_repo": "blastervla/pf2e-src-fop",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-frp",
+    "name": "PF2e Source Bundle: FRP",
+    "description": "PF2e source-series bundle for Fists of the Ruby Phoenix Player's Guide, Fists of the Ruby Phoenix #1: Despair on Danger Island, Fists of the Ruby Phoenix #2: Ready? Fight!, Fists of the Ruby Phoenix #3: King of the Mountain.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-frp/",
+    "github_repo": "blastervla/pf2e-src-frp",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-g-g",
+    "name": "PF2e Source: Guns & Gears",
+    "description": "PF2e content pack for source Guns & Gears.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-g-g/",
+    "github_repo": "blastervla/pf2e-src-g-g",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-gw",
+    "name": "PF2e Source Bundle: GW",
+    "description": "PF2e source-series bundle for Gatewalkers Player's Guide, Gatewalkers #1: The Seventh Arch, Gatewalkers #2: They Watched the Stars, Gatewalkers #3: Dreamers of the Nameless Spires.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-gw/",
+    "github_repo": "blastervla/pf2e-src-gw",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-loaclo",
+    "name": "PF2e Source: Lost Omens: Absalom, City of Lost Omens",
+    "description": "PF2e content pack for source Lost Omens: Absalom, City of Lost Omens.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-loaclo/",
+    "github_repo": "blastervla/pf2e-src-loaclo",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-loag",
+    "name": "PF2e Source: Lost Omens: Ancestry Guide",
+    "description": "PF2e content pack for source Lost Omens: Ancestry Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-loag/",
+    "github_repo": "blastervla/pf2e-src-loag",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-locg",
+    "name": "PF2e Source: Lost Omens: Character Guide",
+    "description": "PF2e content pack for source Lost Omens: Character Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-locg/",
+    "github_repo": "blastervla/pf2e-src-locg",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-logm",
+    "name": "PF2e Source: Lost Omens: Gods & Magic",
+    "description": "PF2e content pack for source Lost Omens: Gods & Magic.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-logm/",
+    "github_repo": "blastervla/pf2e-src-logm",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-lohh",
+    "name": "PF2e Source: LOHH",
+    "description": "PF2e content pack for source LOHH.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-lohh/",
+    "github_repo": "blastervla/pf2e-src-lohh",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-loil",
+    "name": "PF2e Source: Lost Omens: Impossible Lands",
+    "description": "PF2e content pack for source Lost Omens: Impossible Lands.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-loil/",
+    "github_repo": "blastervla/pf2e-src-loil",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-lokl",
+    "name": "PF2e Source: Lost Omens: Knights of Lastwall",
+    "description": "PF2e content pack for source Lost Omens: Knights of Lastwall.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-lokl/",
+    "github_repo": "blastervla/pf2e-src-lokl",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-lol",
+    "name": "PF2e Source: Lost Omens: Legends",
+    "description": "PF2e content pack for source Lost Omens: Legends.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-lol/",
+    "github_repo": "blastervla/pf2e-src-lol",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-lome",
+    "name": "PF2e Source: Lost Omens: The Mwangi Expanse",
+    "description": "PF2e content pack for source Lost Omens: The Mwangi Expanse.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-lome/",
+    "github_repo": "blastervla/pf2e-src-lome",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-lomm",
+    "name": "PF2e Source: Lost Omens: Monsters of Myth",
+    "description": "PF2e content pack for source Lost Omens: Monsters of Myth.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-lomm/",
+    "github_repo": "blastervla/pf2e-src-lomm",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-lopsg",
+    "name": "PF2e Source: Lost Omens: Pathfinder Society Guide",
+    "description": "PF2e content pack for source Lost Omens: Pathfinder Society Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-lopsg/",
+    "github_repo": "blastervla/pf2e-src-lopsg",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-lora",
+    "name": "PF2e Source: Lost Omens: Rival Academies",
+    "description": "PF2e content pack for source Lost Omens: Rival Academies.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-lora/",
+    "github_repo": "blastervla/pf2e-src-lora",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-losk",
+    "name": "PF2e Source: Lost Omens: Shining Kingdoms",
+    "description": "PF2e content pack for source Lost Omens: Shining Kingdoms.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-losk/",
+    "github_repo": "blastervla/pf2e-src-losk",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-lotg",
+    "name": "PF2e Source: Lost Omens: Travel Guide",
+    "description": "PF2e content pack for source Lost Omens: Travel Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-lotg/",
+    "github_repo": "blastervla/pf2e-src-lotg",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-lotgb",
+    "name": "PF2e Source: Lost Omens: The Grand Bazaar",
+    "description": "PF2e content pack for source Lost Omens: The Grand Bazaar.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-lotgb/",
+    "github_repo": "blastervla/pf2e-src-lotgb",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-lotxwg",
+    "name": "PF2e Source: Lost Omens: Tian Xia World Guide",
+    "description": "PF2e content pack for source Lost Omens: Tian Xia World Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-lotxwg/",
+    "github_repo": "blastervla/pf2e-src-lotxwg",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-lowg",
+    "name": "PF2e Source: Lost Omens: World Guide",
+    "description": "PF2e content pack for source Lost Omens: World Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-lowg/",
+    "github_repo": "blastervla/pf2e-src-lowg",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-ltiba",
+    "name": "PF2e Source: Little Trouble in Big Absalom",
+    "description": "PF2e content pack for source Little Trouble in Big Absalom.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-ltiba/",
+    "github_repo": "blastervla/pf2e-src-ltiba",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-mal",
+    "name": "PF2e Source: Malevolence",
+    "description": "PF2e content pack for source Malevolence.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-mal/",
+    "github_repo": "blastervla/pf2e-src-mal",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-motm",
+    "name": "PF2e Source: Mark of the Mantis",
+    "description": "PF2e content pack for source Mark of the Mantis.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-motm/",
+    "github_repo": "blastervla/pf2e-src-motm",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-ms0",
+    "name": "PF2e Source: Myth-Speaker Player's Guide",
+    "description": "PF2e content pack for source Myth-Speaker Player's Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-ms0/",
+    "github_repo": "blastervla/pf2e-src-ms0",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-ngd",
+    "name": "PF2e Source: Night of the Gray Death",
+    "description": "PF2e content pack for source Night of the Gray Death.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-ngd/",
+    "github_repo": "blastervla/pf2e-src-ngd",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-ooa",
+    "name": "PF2e Source Bundle: OOA",
+    "description": "PF2e source-series bundle for Outlaws of Alkenstar Player's Guide, Outlaws of Alkenstar #1: Punks in a Powder Keg, Outlaws of Alkenstar #2: Cradle of Quartz, Outlaws of Alkenstar #3: The Smoking Gun.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-ooa/",
+    "github_repo": "blastervla/pf2e-src-ooa",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-pfum",
+    "name": "PF2e Source: PATHFINDER: FUMBUS!",
+    "description": "PF2e content pack for source PATHFINDER: FUMBUS!.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-pfum/",
+    "github_repo": "blastervla/pf2e-src-pfum",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-pos1",
+    "name": "PF2e Source: Pathfinder One-Shot: Sundered Waves",
+    "description": "PF2e content pack for source Pathfinder One-Shot: Sundered Waves.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-pos1/",
+    "github_repo": "blastervla/pf2e-src-pos1",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-qff",
+    "name": "PF2e Source Bundle: QFF",
+    "description": "PF2e source-series bundle for Quest for the Frozen Flame Player's Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-qff/",
+    "github_repo": "blastervla/pf2e-src-qff",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-rotr0",
+    "name": "PF2e Source: Revenge of the Runelords Player's Guide",
+    "description": "PF2e content pack for source Revenge of the Runelords Player's Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-rotr0/",
+    "github_repo": "blastervla/pf2e-src-rotr0",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-rust",
+    "name": "PF2e Source: Rusthenge",
+    "description": "PF2e content pack for source Rusthenge.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-rust/",
+    "github_repo": "blastervla/pf2e-src-rust",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-sas",
+    "name": "PF2e Source: Shadows at Sundown",
+    "description": "PF2e content pack for source Shadows at Sundown.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-sas/",
+    "github_repo": "blastervla/pf2e-src-sas",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-sf",
+    "name": "PF2e Source Bundle: SF",
+    "description": "PF2e source-series bundle for Stolen Fate Player's Guide, Stolen Fate #1: The Choosing, Stolen Fate #2: The Destiny War, Stolen Fate #3: Worst of All Possible Worlds.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-sf/",
+    "github_repo": "blastervla/pf2e-src-sf",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-skt0",
+    "name": "PF2e Source: Sky King's Tomb Player's Guide",
+    "description": "PF2e content pack for source Sky King's Tomb Player's Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-skt0/",
+    "github_repo": "blastervla/pf2e-src-skt0",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-sli",
+    "name": "PF2e Source: The Slithering",
+    "description": "PF2e content pack for source The Slithering.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-sli/",
+    "github_repo": "blastervla/pf2e-src-sli",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-sob0",
+    "name": "PF2e Source: Shades of Blood Player's Guide",
+    "description": "PF2e content pack for source Shades of Blood Player's Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-sob0/",
+    "github_repo": "blastervla/pf2e-src-sob0",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-sog",
+    "name": "PF2e Source Bundle: SOG",
+    "description": "PF2e source-series bundle for Season of Ghosts Player's Guide, Season of Ghosts #1: The Summer That Never Was, Season of Ghosts #2: Let the Leaves Fall, Season of Ghosts #3: No Breath to Cry, Season of Ghosts #4: To Bloom Below the Web.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-sog/",
+    "github_repo": "blastervla/pf2e-src-sog",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-som",
+    "name": "PF2e Source: Secrets of Magic",
+    "description": "PF2e content pack for source Secrets of Magic.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-som/",
+    "github_repo": "blastervla/pf2e-src-som",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-sot",
+    "name": "PF2e Source Bundle: SOT",
+    "description": "PF2e source-series bundle for Strength of Thousands Player's Guide, Strength of Thousands #1: Kindled Magic, Strength of Thousands #2: Spoken on the Song Wind, Strength of Thousands #3: Hurricane's Howl, Strength of Thousands #4: Secrets of the Temple-City, Strength of Thousands #5: Doorway to the Red Star, Strength of Thousands #6: Shadows of the Ancients.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-sot/",
+    "github_repo": "blastervla/pf2e-src-sot",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-sw0",
+    "name": "PF2e Source: Spore War Player's Guide",
+    "description": "PF2e content pack for source Spore War Player's Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-sw0/",
+    "github_repo": "blastervla/pf2e-src-sw0",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-tal",
+    "name": "PF2e Source: Torment and Legacy",
+    "description": "PF2e content pack for source Torment and Legacy.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-tal/",
+    "github_repo": "blastervla/pf2e-src-tal",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-tec",
+    "name": "PF2e Source: The Enmity Cycle",
+    "description": "PF2e content pack for source The Enmity Cycle.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-tec/",
+    "github_repo": "blastervla/pf2e-src-tec",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-tio",
+    "name": "PF2e Source: Troubles in Otari",
+    "description": "PF2e content pack for source Troubles in Otari.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-tio/",
+    "github_repo": "blastervla/pf2e-src-tio",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-tok",
+    "name": "PF2e Source: Threshold of Knowledge",
+    "description": "PF2e content pack for source Threshold of Knowledge.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-tok/",
+    "github_repo": "blastervla/pf2e-src-tok",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-tott0",
+    "name": "PF2e Source: Triumph of the Tusk Player's Guide",
+    "description": "PF2e content pack for source Triumph of the Tusk Player's Guide.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-tott0/",
+    "github_repo": "blastervla/pf2e-src-tott0",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-tv",
+    "name": "PF2e Source: Treasure Vault",
+    "description": "PF2e content pack for source Treasure Vault.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-tv/",
+    "github_repo": "blastervla/pf2e-src-tv",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-wow",
+    "name": "PF2e Source Bundle: WOW",
+    "description": "PF2e source-series bundle for Wardens of Wildwood Player's Guide, Wardens of Wildwood #1: Pactbreaker, Wardens of Wildwood #2: Severed at the Root, Wardens of Wildwood #3: Shepherd of Decay.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-wow/",
+    "github_repo": "blastervla/pf2e-src-wow",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "id": "pf2e-src-wtd",
+    "name": "PF2e Source Bundle: WTD",
+    "description": "PF2e source-series bundle for Wake the Dead #1, Wake the Dead #2, Wake the Dead #3, Wake the Dead #4, Wake the Dead #5.",
+    "tags": [
+      "fantasy",
+      "pf2e"
+    ],
+    "repo_url": "https://blastervla.github.io/pf2e-src-wtd/",
+    "github_repo": "blastervla/pf2e-src-wtd",
+    "stars": 0,
+    "has_system": false
+  },
+  {
+    "name": "5e-Fighting-Styles",
+    "description": "Added the non 5.5 fighting styles to 5.5",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Junk-Pyle/5e-Fighting-Styles",
+    "repo_url": "https://Junk-Pyle.github.io/5e-Fighting-Styles/",
+    "has_system": false
+  },
+  {
+    "name": "Kingdom-Hearts-5e-overhaul-",
+    "description": "Adaptation from the Kingdom Hearts Overhaul By Oathkewpwr, still not the complete overhaul, sorry",
+    "tags": [
+      "5e",
+      "fantasy",
+      "kh"
+    ],
+    "stars": 0,
+    "github_repo": "ygdradishil/Kingdom-Hearts-5e-overhaul-",
+    "repo_url": "https://ygdradishil.github.io/Kingdom-Hearts-5e-overhaul-/",
+    "has_system": false
+  },
+  {
+    "name": "Common-languages",
+    "description": "This just allows you to pick 3 common languages for your character ",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Holyprince32/Common-languages",
+    "repo_url": "https://Holyprince32.github.io/Common-languages/",
+    "has_system": false
+  },
+  {
+    "name": "Frieren-spells-and-Essentialist-class",
+    "description": "here's a wizard subclass called the essentialist, a frieren based subclass, and 3 of the more outstanding spells from the series, being Zoltrak, Sorganiel, and Reilziden",
+    "tags": [
+      "5e2024",
+      "frieren"
+    ],
+    "stars": 0,
+    "github_repo": "turtl230-code/Frieren-spells-and-Essentialist-class",
+    "repo_url": "https://turtl230-code.github.io/Frieren-spells-and-Essentialist-class/",
+    "has_system": false
+  },
+  {
+    "name": "Ryu-s-Extended-5e-compendium",
+    "description": "Homebrew One DnD content added to the 5e system",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Ryu-Krynn/Ryu-s-Extended-5e-compendium",
+    "repo_url": "https://Ryu-Krynn.github.io/Ryu-s-Extended-5e-compendium/",
+    "has_system": false
+  },
+  {
+    "name": "Lichdom-ascension-feats",
+    "description": "This one's pretty simple, some feats to mimic the abilities of and to become a lich as a player character",
+    "tags": [
+      "5e2024",
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "turtl230-code/Lichdom-ascension-feats",
+    "repo_url": "https://turtl230-code.github.io/Lichdom-ascension-feats/",
+    "has_system": false
+  },
+  {
+    "name": "Samuels-Arcanum-",
+    "description": "Additional elementalspells, feats and more. Generally taken from Reddit with improved balancing for use in classic d&d",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "samueldeany/Samuels-Arcanum-",
+    "repo_url": "https://samueldeany.github.io/Samuels-Arcanum-/",
+    "has_system": false
+  },
+  {
+    "name": "Solasta-Crown-of-the-Magister-Feats",
+    "description": "First item in a planned collection. This adds all of the feat selections present in the game Solasta. Enjoy!",
+    "tags": [
+      "5e2024",
+      "fantasy",
+      "solasta"
+    ],
+    "stars": 0,
+    "github_repo": "ThatOneWeirdo92/Solasta-Crown-of-the-Magister-Feats",
+    "repo_url": "https://ThatOneWeirdo92.github.io/Solasta-Crown-of-the-Magister-Feats/",
+    "has_system": false
+  },
+  {
+    "name": "Mike-The-Accountant",
+    "description": "Former Accountant of the Bailwolf Kingdom and is now on the run for Tax Fraud",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Yeetasoreus99/Mike-The-Accountant",
+    "repo_url": "https://Yeetasoreus99.github.io/Mike-The-Accountant/",
+    "has_system": false
+  },
+  {
+    "name": "Mallorye-",
+    "description": "I’m nice and helpful and I like to fight and help ppl with the world",
+    "tags": [
+      "one-piece",
+      "one-shot",
+      "chainsaw-man",
+      "5e",
+      "music",
+      "street-fighter"
+    ],
+    "stars": 0,
+    "github_repo": "mymylovesn14-cloud/Mallorye-",
+    "repo_url": "https://mymylovesn14-cloud.github.io/Mallorye-/",
+    "has_system": false
+  },
+  {
+    "name": "Improved-Alchemist-Artificer",
+    "description": "These Modified Rules add buffs and modifications to the alchemist artificer in an effort to help it compete with the other subclasses. details are as posted on dnd next on reddit by Stevek. Full design credit to them.",
+    "tags": [
+      "5e",
+      "homebrew",
+      "artificer"
+    ],
+    "stars": 0,
+    "github_repo": "JayBinx/Improved-Alchemist-Artificer",
+    "repo_url": "https://JayBinx.github.io/Improved-Alchemist-Artificer/",
+    "has_system": false
+  },
+  {
+    "name": "Arificer-5.5",
+    "description": "work in progress! The artificer rules for 5.5 from Eberron - Forge of the Artificer. Battlesmith and Cartographer NOT FULLY IMPLEMENTED",
+    "tags": [
+      "5e2024",
+      "artificer",
+      "class"
+    ],
+    "stars": 0,
+    "github_repo": "JayBinx/Arificer-5.5",
+    "repo_url": "https://JayBinx.github.io/Arificer-5.5/",
+    "has_system": false
+  },
+  {
+    "name": "Solum-Paladin-Oath",
+    "description": "An oath for the most devoted Daydarian Paladins",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "zaezaegoincraycray/Solum-Paladin-Oath",
+    "repo_url": "https://zaezaegoincraycray.github.io/Solum-Paladin-Oath/",
+    "has_system": false
+  },
+  {
+    "name": "Misfit-Campaign",
+    "description": "items for my custom campaign",
+    "tags": [
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "moonlittigrr/Misfit-Campaign",
+    "repo_url": "https://moonlittigrr.github.io/Misfit-Campaign/",
+    "has_system": false
+  },
+  {
+    "name": "some-monster-ideas",
+    "description": "just some monster ideas I came up with. I may add more in the future ",
+    "tags": [
+      "5e",
+      "monsters",
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "j11barton-lab/some-monster-ideas",
+    "repo_url": "https://j11barton-lab.github.io/some-monster-ideas/",
+    "has_system": false
+  },
+  {
+    "name": "oozekin-helianas",
+    "description": "Oozekin race from Heliana’s Guide to Monster Hunting",
+    "tags": [
+      "5e",
+      "race",
+      "hgmh"
+    ],
+    "stars": 0,
+    "github_repo": "kzh6r28bft-droid/oozekin-helianas",
+    "repo_url": "https://kzh6r28bft-droid.github.io/oozekin-helianas/",
+    "has_system": false
+  },
+  {
+    "name": "The-Brew",
+    "description": "homebrew, monsters, spells",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "MunkiDXin/The-Brew",
+    "repo_url": "https://MunkiDXin.github.io/The-Brew/",
+    "has_system": false
+  },
+  {
+    "name": "Star-Wars-campaign-setting",
+    "description": "my first upload not balanced it has vehicles, weapons, force abilities, and enemies for both empire and rebels",
+    "tags": [
+      "5e",
+      "homebrew",
+      "star-wars"
+    ],
+    "stars": 0,
+    "github_repo": "4mcncs2bk5-ship-it/Star-Wars-campaign-setting",
+    "repo_url": "https://4mcncs2bk5-ship-it.github.io/Star-Wars-campaign-setting/",
+    "has_system": false
+  },
+  {
+    "name": "hombrewed-class-gliph-artist",
+    "description": "a class designed around written magic",
+    "tags": [
+      "5e",
+      "class",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "britton54-commits/hombrewed-class-gliph-artist",
+    "repo_url": "https://britton54-commits.github.io/hombrewed-class-gliph-artist/",
+    "has_system": false
+  },
+    {
     "name": "Half-Orc-Dwarf",
     "description": "Hybrid character for homebrew",
     "tags": [
-      "5e",
       "5e2024",
       "forgotten-realms",
       "heroes-of-faerun",
-      "homemade",
-      "homebrew",
-      "orc",
-      "dwarf"
+      "homebrew"
     ],
     "stars": 0,
     "github_repo": "MalletGreatshield/Half-Orc-Dwarf",
@@ -255,16 +1730,10 @@
     "description": "silvered Warhammer safe enough to be used by those touched by lycanthropy.",
     "tags": [
       "heroes-of-faerun",
-      "5e",
       "5e2024",
       "forgotten-realms",
       "fantasy",
-      "homebrew",
-      "silver",
-      "hammer",
-      "warhammer",
-      "cleric",
-      "holy-symbol"
+      "homebrew"
     ],
     "stars": 0,
     "github_repo": "MalletGreatshield/Fangbreaker",
