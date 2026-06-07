@@ -1697,5 +1697,14 @@
     "github_repo": "4mcncs2bk5-ship-it/Star-Wars-campaign-setting",
     "repo_url": "https://4mcncs2bk5-ship-it.github.io/Star-Wars-campaign-setting/",
     "has_system": false
+  },
+  {
+    "name": "RPG-test",
+    "description": "testing the push ability of this RPG app",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "robmaccz-debug/RPG-test",
+    "repo_url": "https://robmaccz-debug.github.io/RPG-test/",
+    "has_system": false
   }
 ]
