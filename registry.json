@@ -1711,7 +1711,7 @@
     "repo_url": "https://britton54-commits.github.io/hombrewed-class-gliph-artist/",
     "has_system": false
   },
-    {
+  {
     "name": "Half-Orc-Dwarf",
     "description": "Hybrid character for homebrew",
     "tags": [
@@ -1738,6 +1738,15 @@
     "stars": 0,
     "github_repo": "MalletGreatshield/Fangbreaker",
     "repo_url": "https://MalletGreatshield.github.io/Fangbreaker/",
+    "has_system": false
+  },
+  {
+    "name": "bearleetanuki",
+    "description": "chaos a mess need lots of info",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "BearleeTanuki/bearleetanuki",
+    "repo_url": "https://BearleeTanuki.github.io/bearleetanuki/",
     "has_system": false
   }
 ]
