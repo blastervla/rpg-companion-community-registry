@@ -1711,7 +1711,7 @@
     "repo_url": "https://britton54-commits.github.io/hombrewed-class-gliph-artist/",
     "has_system": false
   },
-    {
+  {
     "name": "Half-Orc-Dwarf",
     "description": "Hybrid character for homebrew",
     "tags": [
@@ -1738,6 +1738,21 @@
     "stars": 0,
     "github_repo": "MalletGreatshield/Fangbreaker",
     "repo_url": "https://MalletGreatshield.github.io/Fangbreaker/",
+    "has_system": false
+  },
+  {
+    "name": "ballssack",
+    "description": "yo mama so stupid she died ",
+    "tags": [
+      "5e",
+      "class",
+      "artificer",
+      "fantasy",
+      "race"
+    ],
+    "stars": 0,
+    "github_repo": "dekikomennarri-hub/ballssack",
+    "repo_url": "https://dekikomennarri-hub.github.io/ballssack/",
     "has_system": false
   }
 ]
