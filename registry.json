@@ -1711,7 +1711,7 @@
     "repo_url": "https://britton54-commits.github.io/hombrewed-class-gliph-artist/",
     "has_system": false
   },
-    {
+  {
     "name": "Half-Orc-Dwarf",
     "description": "Hybrid character for homebrew",
     "tags": [
@@ -1738,6 +1738,17 @@
     "stars": 0,
     "github_repo": "MalletGreatshield/Fangbreaker",
     "repo_url": "https://MalletGreatshield.github.io/Fangbreaker/",
+    "has_system": false
+  },
+  {
+    "name": "my-Character-",
+    "description": "this is my Character I created for a OP build. I’ve had good luck with it hopefully you do too",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "theGrimYeeter-01/my-Character-",
+    "repo_url": "https://theGrimYeeter-01.github.io/my-Character-/",
     "has_system": false
   }
 ]
