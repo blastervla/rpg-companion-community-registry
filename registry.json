@@ -1762,5 +1762,18 @@
     "github_repo": "LichBadgerKing/Villanary-Path-Feats",
     "repo_url": "https://LichBadgerKing.github.io/Villanary-Path-Feats/",
     "has_system": false
+  },
+  {
+    "name": "Spirit-Vessel-Ranger",
+    "description": "Homebrew Ranger subclass aiming to make Rangers a more viable party member.",
+    "tags": [
+      "5e",
+      "homebrew",
+      "ranger"
+    ],
+    "stars": 0,
+    "github_repo": "sherriff1/Spirit-Vessel-Ranger",
+    "repo_url": "https://sherriff1.github.io/Spirit-Vessel-Ranger/",
+    "has_system": false
   }
 ]
