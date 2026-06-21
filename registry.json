@@ -1800,5 +1800,16 @@
     "github_repo": "perfectpheonix5/tulas-race",
     "repo_url": "https://perfectpheonix5.github.io/tulas-race/",
     "has_system": false
+  },
+  {
+    "name": "dopab-personalcampaign",
+    "description": "extras for my own campaign",
+    "tags": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "martinzmario-beep/dopab-personalcampaign",
+    "repo_url": "https://martinzmario-beep.github.io/dopab-personalcampaign/",
+    "has_system": false
   }
 ]
