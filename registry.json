@@ -1659,5 +1659,16 @@
     "github_repo": "j11barton-lab/some-monster-ideas",
     "repo_url": "https://j11barton-lab.github.io/some-monster-ideas/",
     "has_system": false
+  },
+  {
+    "name": "some-classes-and-races",
+    "description": "just some classes and races that I came up with. they aren’t finished yet but are good enough to use. (balancing and naming).",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "j11barton-lab/some-classes-and-races",
+    "repo_url": "https://j11barton-lab.github.io/some-classes-and-races/",
+    "has_system": false
   }
 ]
