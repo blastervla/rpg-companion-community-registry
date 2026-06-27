@@ -1812,5 +1812,21 @@
     "github_repo": "LontraCaolha/e.g-Path-of-the-Grave-walker-feats-",
     "repo_url": "https://LontraCaolha.github.io/e.g-Path-of-the-Grave-walker-feats-/",
     "has_system": false
+  },
+  {
+    "name": "Playable-leopard-gecko-race",
+    "description": "A Homebrew of a playable leopard gecko race. They are small and stealthy and can burrow like nobody's business. They've also got a unique vision set-up that will certainly be fun to mess around with. Enjoy :]",
+    "tags": [
+      "5e",
+      "leopard-gecko",
+      "animal-turned-race",
+      "homebrew",
+      "lizard",
+      "gecko"
+    ],
+    "stars": 0,
+    "github_repo": "sychicburrito/Playable-leopard-gecko-race",
+    "repo_url": "https://sychicburrito.github.io/Playable-leopard-gecko-race/",
+    "has_system": false
   }
 ]
