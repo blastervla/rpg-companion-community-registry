@@ -1812,5 +1812,22 @@
     "github_repo": "LontraCaolha/e.g-Path-of-the-Grave-walker-feats-",
     "repo_url": "https://LontraCaolha.github.io/e.g-Path-of-the-Grave-walker-feats-/",
     "has_system": false
+  },
+  {
+    "name": "MROLOTS-stuff-for-fantasy-worlds",
+    "description": "Races-classes-other.",
+    "tags": [
+      "5e",
+      "race",
+      "class",
+      "dark-fantasy",
+      "fantasy",
+      "feats",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Mrolots/MROLOTS-stuff-for-fantasy-worlds",
+    "repo_url": "https://Mrolots.github.io/MROLOTS-stuff-for-fantasy-worlds/",
+    "has_system": false
   }
 ]
