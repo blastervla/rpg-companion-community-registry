@@ -1837,5 +1837,17 @@
     "github_repo": "KyteFox/sword-dancer-class",
     "repo_url": "https://KyteFox.github.io/sword-dancer-class/",
     "has_system": false
+  },
+  {
+    "name": "Illrigger-Class",
+    "description": "The Illrigger base class",
+    "tags": [
+      "5e2024",
+      "class"
+    ],
+    "stars": 0,
+    "github_repo": "lpatton1025/Illrigger-Class",
+    "repo_url": "https://lpatton1025.github.io/Illrigger-Class/",
+    "has_system": false
   }
 ]
