@@ -1849,5 +1849,20 @@
     "github_repo": "lpatton1025/Illrigger-Class",
     "repo_url": "https://lpatton1025.github.io/Illrigger-Class/",
     "has_system": false
+  },
+  {
+    "name": "stuff-for-memories-of-a-cycles-end-and-campaign",
+    "description": "Spells for the cycles end campaign",
+    "tags": [
+      "5e",
+      "5e2024",
+      "persona",
+      "warframe",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Aphelion-907/stuff-for-memories-of-a-cycles-end-and-campaign",
+    "repo_url": "https://Aphelion-907.github.io/stuff-for-memories-of-a-cycles-end-and-campaign/",
+    "has_system": false
   }
 ]
