@@ -1873,5 +1873,17 @@
     "github_repo": "dominiklovricdnd/Paragon-dnd-5.5-class",
     "repo_url": "https://dominiklovricdnd.github.io/Paragon-dnd-5.5-class/",
     "has_system": false
+  },
+  {
+    "name": "lunar-sorcery-subclass",
+    "description": "Contains one playable Sorcerer subclass: Lunar Sorcery. Includes subclass features, spell selection rules, and moon phase mechanics.",
+    "tags": [
+      "5e2024",
+      "subclass"
+    ],
+    "stars": 0,
+    "github_repo": "DumbSword/lunar-sorcery-subclass",
+    "repo_url": "https://DumbSword.github.io/lunar-sorcery-subclass/",
+    "has_system": false
   }
 ]
