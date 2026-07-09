@@ -1885,5 +1885,16 @@
     "github_repo": "DumbSword/lunar-sorcery-subclass",
     "repo_url": "https://DumbSword.github.io/lunar-sorcery-subclass/",
     "has_system": false
+  },
+  {
+    "name": "spell-and-a",
+    "description": "Descripsion and somethink else",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Tigran666-bep/spell-and-a",
+    "repo_url": "https://Tigran666-bep.github.io/spell-and-a/",
+    "has_system": false
   }
 ]
