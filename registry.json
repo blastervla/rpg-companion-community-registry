@@ -1885,5 +1885,17 @@
     "github_repo": "DumbSword/lunar-sorcery-subclass",
     "repo_url": "https://DumbSword.github.io/lunar-sorcery-subclass/",
     "has_system": false
+  },
+  {
+    "name": "EchoPhone-Homebrew-",
+    "description": "A collection of changes that came up as needed in a local D&D 5e game.",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "Echo-Phone/EchoPhone-Homebrew-",
+    "repo_url": "https://Echo-Phone.github.io/EchoPhone-Homebrew-/",
+    "has_system": false
   }
 ]
