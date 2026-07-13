@@ -1885,5 +1885,16 @@
     "github_repo": "DumbSword/lunar-sorcery-subclass",
     "repo_url": "https://DumbSword.github.io/lunar-sorcery-subclass/",
     "has_system": false
+  },
+  {
+    "name": "Monster-Hunting-Tamer-Class",
+    "description": "Tame monsters an find your way to do it",
+    "tags": [
+      "class"
+    ],
+    "stars": 0,
+    "github_repo": "Cablako/Monster-Hunting-Tamer-Class",
+    "repo_url": "https://Cablako.github.io/Monster-Hunting-Tamer-Class/",
+    "has_system": false
   }
 ]
