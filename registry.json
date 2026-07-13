@@ -1896,5 +1896,14 @@
     "github_repo": "Cablako/Monster-Hunting-Tamer-Class",
     "repo_url": "https://Cablako.github.io/Monster-Hunting-Tamer-Class/",
     "has_system": false
+  },
+  {
+    "name": "Monster-Hunting-Tamer",
+    "description": "Find your way to tame",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "Cablako/Monster-Hunting-Tamer",
+    "repo_url": "https://Cablako.github.io/Monster-Hunting-Tamer/",
+    "has_system": false
   }
 ]
