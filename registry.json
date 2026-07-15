@@ -11,7 +11,7 @@
     ],
     "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
     "github_repo": "blastervla/rpg-companion-app-systems",
-    "stars": 9,
+    "stars": 10,
     "has_system": true
   },
   {
@@ -1887,20 +1887,35 @@
     "has_system": false
   },
   {
-    "name": "Monster-Hunting-Tamer-Class",
-    "description": "Tame monsters an find your way to do it",
+    "name": "Norse-mythology-monster",
+    "description": "just some Norse monster ",
     "tags": [
-      "class"
+      "5e",
+      "homebrew"
     ],
     "stars": 0,
-    "github_repo": "Cablako/Monster-Hunting-Tamer-Class",
-    "repo_url": "https://Cablako.github.io/Monster-Hunting-Tamer-Class/",
+    "github_repo": "owemca-svg/Norse-mythology-monster",
+    "repo_url": "https://owemca-svg.github.io/Norse-mythology-monster/",
+    "has_system": false
+  },
+  {
+    "name": "Battlezoo-dragon-ancestry-and-class",
+    "description": "battlezoo dragon ancestry ",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "tomhoobianschmal-svg/Battlezoo-dragon-ancestry-and-class",
+    "repo_url": "https://tomhoobianschmal-svg.github.io/Battlezoo-dragon-ancestry-and-class/",
     "has_system": false
   },
   {
     "name": "Monster-Hunting-Tamer",
     "description": "Find your way to tame",
-    "tags": [],
+    "tags": [
+      "5e2024",
+      "homebrew"
+    ],
     "stars": 0,
     "github_repo": "Cablako/Monster-Hunting-Tamer",
     "repo_url": "https://Cablako.github.io/Monster-Hunting-Tamer/",
