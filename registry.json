@@ -11,7 +11,7 @@
     ],
     "repo_url": "https://d2dmd8x0lyn9l8.cloudfront.net",
     "github_repo": "blastervla/rpg-companion-app-systems",
-    "stars": 9,
+    "stars": 10,
     "has_system": true
   },
   {
@@ -1884,6 +1884,18 @@
     "stars": 0,
     "github_repo": "DumbSword/lunar-sorcery-subclass",
     "repo_url": "https://DumbSword.github.io/lunar-sorcery-subclass/",
+    "has_system": false
+  },
+  {
+    "name": "Norse-mythology-monster",
+    "description": "just some Norse monster ",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "owemca-svg/Norse-mythology-monster",
+    "repo_url": "https://owemca-svg.github.io/Norse-mythology-monster/",
     "has_system": false
   },
   {
