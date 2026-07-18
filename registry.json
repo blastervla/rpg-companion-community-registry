@@ -1932,5 +1932,19 @@
     "github_repo": "giacomomorlando06-commits/Furbab-hombrew-race",
     "repo_url": "https://giacomomorlando06-commits.github.io/Furbab-hombrew-race/",
     "has_system": false
+  },
+  {
+    "name": "hombrew-wendigo",
+    "description": "wendigo and wendigo spawn stat blocks",
+    "tags": [
+      "5e",
+      "dark-fantasy",
+      "homebrew",
+      "monsters"
+    ],
+    "stars": 0,
+    "github_repo": "giacomomorlando06-commits/hombrew-wendigo",
+    "repo_url": "https://giacomomorlando06-commits.github.io/hombrew-wendigo/",
+    "has_system": false
   }
 ]
