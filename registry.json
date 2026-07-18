@@ -1920,5 +1920,17 @@
     "github_repo": "Cablako/Monster-Hunting-Tamer",
     "repo_url": "https://Cablako.github.io/Monster-Hunting-Tamer/",
     "has_system": false
+  },
+  {
+    "name": "Furbab-hombrew-race",
+    "description": "An hombrew race of a furbab",
+    "tags": [
+      "5e",
+      "race"
+    ],
+    "stars": 0,
+    "github_repo": "giacomomorlando06-commits/Furbab-hombrew-race",
+    "repo_url": "https://giacomomorlando06-commits.github.io/Furbab-hombrew-race/",
+    "has_system": false
   }
 ]
