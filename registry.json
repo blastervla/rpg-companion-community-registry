@@ -1958,5 +1958,14 @@
     "github_repo": "EF0-coder/Ruined-Background",
     "repo_url": "https://EF0-coder.github.io/Ruined-Background/",
     "has_system": false
+  },
+  {
+    "name": "dnd_personal_creations",
+    "description": "a export of dnd creations on companion",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "matheustsdev/dnd_personal_creations",
+    "repo_url": "https://matheustsdev.github.io/dnd_personal_creations/",
+    "has_system": false
   }
 ]
