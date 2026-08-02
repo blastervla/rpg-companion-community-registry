@@ -1958,5 +1958,18 @@
     "github_repo": "EF0-coder/Ruined-Background",
     "repo_url": "https://EF0-coder.github.io/Ruined-Background/",
     "has_system": false
+  },
+  {
+    "name": "Teenage-Mutant-Ninja-Turtles-Monster-Selections",
+    "description": "A selection of monsters suitable for fighting bad guys from the Teenage Mutant Ninja Turtles. Renamed monsters from other sources. Kraang, Mousers (And other GenTech), and more.",
+    "tags": [
+      "tmnt",
+      "monsters",
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "CMD4Fun/Teenage-Mutant-Ninja-Turtles-Monster-Selections",
+    "repo_url": "https://CMD4Fun.github.io/Teenage-Mutant-Ninja-Turtles-Monster-Selections/",
+    "has_system": false
   }
 ]
