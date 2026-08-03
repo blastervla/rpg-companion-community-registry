@@ -1971,5 +1971,16 @@
     "github_repo": "CMD4Fun/Teenage-Mutant-Ninja-Turtles-Monster-Selections",
     "repo_url": "https://CMD4Fun.github.io/Teenage-Mutant-Ninja-Turtles-Monster-Selections/",
     "has_system": false
+  },
+  {
+    "name": "homebrew",
+    "description": "custom bear race for playing",
+    "tags": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Workerbeebudy/homebrew",
+    "repo_url": "https://Workerbeebudy.github.io/homebrew/",
+    "has_system": false
   }
 ]
