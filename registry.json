@@ -1985,5 +1985,18 @@
     "github_repo": "GrimoreGrenore/Ben-10-Alien-Races",
     "repo_url": "https://GrimoreGrenore.github.io/Ben-10-Alien-Races/",
     "has_system": false
+  },
+  {
+    "name": "Jackson-the-king",
+    "description": "yugioh dnd campaign with mellnium items and new stuff",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "yugioh"
+    ],
+    "stars": 0,
+    "github_repo": "laurieanngraves-art/Jackson-the-king",
+    "repo_url": "https://laurieanngraves-art.github.io/Jackson-the-king/",
+    "has_system": false
   }
 ]
