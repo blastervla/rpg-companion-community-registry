@@ -2010,5 +2010,17 @@
     "github_repo": "laurieanngraves-art/yugioh-dnd-",
     "repo_url": "https://laurieanngraves-art.github.io/yugioh-dnd-/",
     "has_system": false
+  },
+  {
+    "name": "avatar-dnd",
+    "description": "4 bender feats from the show",
+    "tags": [
+      "5e2024",
+      "avatar"
+    ],
+    "stars": 0,
+    "github_repo": "laurieanngraves-art/avatar-dnd",
+    "repo_url": "https://laurieanngraves-art.github.io/avatar-dnd/",
+    "has_system": false
   }
 ]
