@@ -2022,5 +2022,17 @@
     "github_repo": "laurieanngraves-art/avatar-dnd",
     "repo_url": "https://laurieanngraves-art.github.io/avatar-dnd/",
     "has_system": false
+  },
+  {
+    "name": "one-piece-dnd",
+    "description": "one piece dnd aAAAAA",
+    "tags": [
+      "one-piece",
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "laurieanngraves-art/one-piece-dnd",
+    "repo_url": "https://laurieanngraves-art.github.io/one-piece-dnd/",
+    "has_system": false
   }
 ]
