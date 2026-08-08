@@ -2022,5 +2022,17 @@
     "github_repo": "laurieanngraves-art/avatar-dnd",
     "repo_url": "https://laurieanngraves-art.github.io/avatar-dnd/",
     "has_system": false
+  },
+  {
+    "name": "viking-dnd",
+    "description": "dnd vikings stuff like new class",
+    "tags": [
+      "viking",
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "laurieanngraves-art/viking-dnd",
+    "repo_url": "https://laurieanngraves-art.github.io/viking-dnd/",
+    "has_system": false
   }
 ]
