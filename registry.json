@@ -2047,5 +2047,18 @@
     "github_repo": "6m8vwbbzcb-crypto/Gears-of-war-armory-",
     "repo_url": "https://6m8vwbbzcb-crypto.github.io/Gears-of-war-armory-/",
     "has_system": false
+  },
+  {
+    "name": "Biozzard-Frozen-Menace",
+    "description": "One boss dragon inspired on Sonic's Biohazard",
+    "tags": [
+      "5e2024",
+      "boss",
+      "ondawork"
+    ],
+    "stars": 0,
+    "github_repo": "onirian-darkeast/Biozzard-Frozen-Menace",
+    "repo_url": "https://onirian-darkeast.github.io/Biozzard-Frozen-Menace/",
+    "has_system": false
   }
 ]
