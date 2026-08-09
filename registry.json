@@ -1887,6 +1887,8 @@
     "has_system": false
   },
   {
+    "name": "Homebrew-Skokjir-pack",
+    "description": "All homebrew for my home game ",
     "name": "Norse-mythology-monster",
     "description": "just some Norse monster ",
     "tags": [
@@ -1905,6 +1907,8 @@
       "5e"
     ],
     "stars": 0,
+    "github_repo": "battlebot768-lab/Homebrew-Skokjir-pack",
+    "repo_url": "https://battlebot768-lab.github.io/Homebrew-Skokjir-pack/",
     "github_repo": "tomhoobianschmal-svg/Battlezoo-dragon-ancestry-and-class",
     "repo_url": "https://tomhoobianschmal-svg.github.io/Battlezoo-dragon-ancestry-and-class/",
     "has_system": false
