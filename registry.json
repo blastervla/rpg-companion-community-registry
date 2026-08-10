@@ -2060,5 +2060,14 @@
     "github_repo": "onirian-darkeast/Biozzard-Frozen-Menace",
     "repo_url": "https://onirian-darkeast.github.io/Biozzard-Frozen-Menace/",
     "has_system": false
+  },
+  {
+    "name": "custom-dnd-5e-content-",
+    "description": "custom for RPG companion ",
+    "tags": [],
+    "stars": 0,
+    "github_repo": "cottamrj-sys/custom-dnd-5e-content-",
+    "repo_url": "https://cottamrj-sys.github.io/custom-dnd-5e-content-/",
+    "has_system": false
   }
 ]
