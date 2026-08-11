@@ -2073,5 +2073,20 @@
     "github_repo": "onirian-darkeast/Biozzard-Frozen-Menace",
     "repo_url": "https://onirian-darkeast.github.io/Biozzard-Frozen-Menace/",
     "has_system": false
+  },
+  {
+    "name": "Wednesday-Dread-Campaign",
+    "description": "Here you guys go. more to be added later.",
+    "tags": [
+      "5e",
+      "homebrew",
+      "class",
+      "subclass",
+      "fantasy"
+    ],
+    "stars": 0,
+    "github_repo": "stephentharp1994-maker/Wednesday-Dread-Campaign",
+    "repo_url": "https://stephentharp1994-maker.github.io/Wednesday-Dread-Campaign/",
+    "has_system": false
   }
 ]
