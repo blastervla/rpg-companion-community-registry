@@ -2047,5 +2047,31 @@
     "github_repo": "laurieanngraves-art/viking-dnd-campaign-",
     "repo_url": "https://laurieanngraves-art.github.io/viking-dnd-campaign-/",
     "has_system": false
+  },
+  {
+    "name": "Gears-of-war-armory-",
+    "description": "weapons and armors from the gears of war franchise ",
+    "tags": [
+      "5e",
+      "gears-of-war",
+      "gow"
+    ],
+    "stars": 0,
+    "github_repo": "6m8vwbbzcb-crypto/Gears-of-war-armory-",
+    "repo_url": "https://6m8vwbbzcb-crypto.github.io/Gears-of-war-armory-/",
+    "has_system": false
+  },
+  {
+    "name": "Biozzard-Frozen-Menace",
+    "description": "One boss dragon inspired on Sonic's Biohazard",
+    "tags": [
+      "5e2024",
+      "boss",
+      "ondawork"
+    ],
+    "stars": 0,
+    "github_repo": "onirian-darkeast/Biozzard-Frozen-Menace",
+    "repo_url": "https://onirian-darkeast.github.io/Biozzard-Frozen-Menace/",
+    "has_system": false
   }
 ]
