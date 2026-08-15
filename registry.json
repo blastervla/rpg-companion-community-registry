@@ -2088,5 +2088,16 @@
     "github_repo": "stephentharp1994-maker/Wednesday-Dread-Campaign",
     "repo_url": "https://stephentharp1994-maker.github.io/Wednesday-Dread-Campaign/",
     "has_system": false
+  },
+  {
+    "name": "Dnd-to-the-Past",
+    "description": "",
+    "tags": [
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "jwilson2324/Dnd-to-the-Past",
+    "repo_url": "https://jwilson2324.github.io/Dnd-to-the-Past/",
+    "has_system": false
   }
 ]
