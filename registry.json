@@ -2098,4 +2098,12 @@
     "repo_url": "https://b75sd9hg8b-sketch.github.io/Umbrasyl-s-Clown-Nose-/",
     "has_system": false
   }
+  {
+  "id": "mana_world",
+  "name": "Mana World",
+  "description": "A 120-point character system with six nations, learned magic, and anime-inspired combat. Features Lightning, Fire, Earth, Warping, Conjuring, Mending, and forbidden arts.",
+  "tags": ["fantasy", "original", "magic", "anime"],
+  "repo_url": "https://LuxoVis.github.io/mana-world-rpg/",
+  "github_repo": "YOUR_USERNAME/mana-world-rpg"
+}
 ]
