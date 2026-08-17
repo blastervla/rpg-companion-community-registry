@@ -2097,5 +2097,18 @@
     "github_repo": "b75sd9hg8b-sketch/Umbrasyl-s-Clown-Nose-",
     "repo_url": "https://b75sd9hg8b-sketch.github.io/Umbrasyl-s-Clown-Nose-/",
     "has_system": false
+  },
+  {
+    "name": "Dr.-Aurelius-Renato-Alma",
+    "description": "High Elf Warlock  with Draconic heritage (sage background/doctorate in Psychology). Strategic caster relying on mind manipulation, sarcasm and charisma.",
+    "tags": [
+      "warlock",
+      "high-elf",
+      "sage"
+    ],
+    "stars": 0,
+    "github_repo": "ShinobiDrunk/Dr.-Aurelius-Renato-Alma",
+    "repo_url": "https://ShinobiDrunk.github.io/Dr.-Aurelius-Renato-Alma/",
+    "has_system": false
   }
 ]
