@@ -2073,5 +2073,19 @@
     "github_repo": "onirian-darkeast/Biozzard-Frozen-Menace",
     "repo_url": "https://onirian-darkeast.github.io/Biozzard-Frozen-Menace/",
     "has_system": false
+  },
+  {
+    "name": "new-races",
+    "description": "new races and a new class",
+    "tags": [
+      "5e",
+      "class",
+      "homebrew",
+      "race"
+    ],
+    "stars": 0,
+    "github_repo": "laurieanngraves-art/new-races",
+    "repo_url": "https://laurieanngraves-art.github.io/new-races/",
+    "has_system": false
   }
 ]
