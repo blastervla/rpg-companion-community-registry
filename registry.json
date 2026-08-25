@@ -2894,8 +2894,14 @@
   {
     "name": "Kitsune-race",
     "description": "a fox from Japanese mythology",
-    "tags": [
-      "5e2024"
+   "tags": [
+      "5e",
+      "race",
+      "homebrew"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
     ],
     "stars": 0,
     "github_repo": "randomcabs0717-stack/Kitsune-race",
