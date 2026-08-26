@@ -2894,7 +2894,7 @@
   {
     "name": "Kitsune-race",
     "description": "a fox from Japanese mythology",
-   "tags": [
+    "tags": [
       "5e",
       "race",
       "homebrew"
@@ -2906,6 +2906,18 @@
     "stars": 0,
     "github_repo": "randomcabs0717-stack/Kitsune-race",
     "repo_url": "https://randomcabs0717-stack.github.io/Kitsune-race/",
+    "has_system": false
+  },
+  {
+    "name": "Monsters-of-Drakkenheim-",
+    "description": "most Monsters of Drakkenheim ",
+    "tags": [
+      "5e",
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "marvinmair3-glitch/Monsters-of-Drakkenheim-",
+    "repo_url": "https://marvinmair3-glitch.github.io/Monsters-of-Drakkenheim-/",
     "has_system": false
   }
 ]
