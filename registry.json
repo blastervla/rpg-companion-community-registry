@@ -2923,5 +2923,20 @@
     "github_repo": "marvinmair3-glitch/Monsters-of-Drakkenheim-",
     "repo_url": "https://marvinmair3-glitch.github.io/Monsters-of-Drakkenheim-/",
     "has_system": false
+  },
+  {
+    "name": "homebrew-items",
+    "description": "homebrew stuff and things",
+    "tags": [
+      "5e"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "stevenivey70/homebrew-items",
+    "repo_url": "https://stevenivey70.github.io/homebrew-items/",
+    "has_system": false
   }
 ]
