@@ -2938,5 +2938,22 @@
     "github_repo": "stevenivey70/homebrew-items",
     "repo_url": "https://stevenivey70.github.io/homebrew-items/",
     "has_system": false
+  },
+  {
+    "name": "homebrew-stuf",
+    "description": "pirates, orcs, homebrew",
+    "tags": [
+      "5e",
+      "fantasy",
+      "homebrew"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "stevenivey70/homebrew-stuf",
+    "repo_url": "https://stevenivey70.github.io/homebrew-stuf/",
+    "has_system": false
   }
 ]
