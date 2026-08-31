@@ -2942,5 +2942,24 @@
       "5e"
     ],
     "origin": "homebrew"
+  },
+  {
+    "name": "the-elder-scroll-s-homebrew",
+    "description": "The Elder Scroll s Homebrew for 5.5 e Work in Progress",
+    "tags": [
+      "5e2024",
+      "fantasy",
+      "homebrew",
+      "race",
+      "elderscrolls"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "dcblair8484/the-elder-scroll-s-homebrew",
+    "repo_url": "https://dcblair8484.github.io/the-elder-scroll-s-homebrew/",
+    "has_system": false
   }
 ]
