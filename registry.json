@@ -2961,5 +2961,22 @@
     "github_repo": "dcblair8484/the-elder-scroll-s-homebrew",
     "repo_url": "https://dcblair8484.github.io/the-elder-scroll-s-homebrew/",
     "has_system": false
+  },
+  {
+    "name": "Cambion-Homebrew",
+    "description": "a homebrew cambion - incubus halfling",
+    "tags": [
+      "5e2024",
+      "race",
+      "cambion"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "9K92k2/Cambion-Homebrew",
+    "repo_url": "https://9K92k2.github.io/Cambion-Homebrew/",
+    "has_system": false
   }
 ]
