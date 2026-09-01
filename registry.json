@@ -2978,5 +2978,20 @@
     "github_repo": "9K92k2/Cambion-Homebrew",
     "repo_url": "https://9K92k2.github.io/Cambion-Homebrew/",
     "has_system": false
+  },
+  {
+    "name": "voidhunger-sorcerer",
+    "description": "a sorcerer subclass focusing on dispell magic and counterspell",
+    "tags": [
+      "5e"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "nenebird707-a11y/voidhunger-sorcerer",
+    "repo_url": "https://nenebird707-a11y.github.io/voidhunger-sorcerer/",
+    "has_system": false
   }
 ]
