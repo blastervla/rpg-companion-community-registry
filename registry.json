@@ -2135,6 +2135,9 @@
     "stars": 0,
     "github_repo": "Bleddyn159/Witcher-Homebrew",
     "repo_url": "https://Bleddyn159.github.io/Witcher-Homebrew/",
-    "has_system": false
+    "has_system": false,
+    "systems": [
+      "pf2e"
+    ]
   }
 ]
