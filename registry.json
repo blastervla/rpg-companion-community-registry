@@ -2993,5 +2993,22 @@
     "github_repo": "nenebird707-a11y/voidhunger-sorcerer",
     "repo_url": "https://nenebird707-a11y.github.io/voidhunger-sorcerer/",
     "has_system": false
+  },
+  {
+    "name": "s5e-superpowered-roleplaying",
+    "description": "s5e superpowered roleplaying",
+    "tags": [
+      "5e",
+      "superhero",
+      "modern"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "DanteTFL/s5e-superpowered-roleplaying",
+    "repo_url": "https://DanteTFL.github.io/s5e-superpowered-roleplaying/",
+    "has_system": false
   }
 ]
