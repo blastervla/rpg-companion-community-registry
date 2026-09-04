@@ -1946,5 +1946,25 @@
     "github_repo": "giacomomorlando06-commits/hombrew-wendigo",
     "repo_url": "https://giacomomorlando06-commits.github.io/hombrew-wendigo/",
     "has_system": false
+  },
+  {
+    "name": "star-wars-force-user-class-and-saber-weapons-pack-",
+    "description": "this pack contains a force user class with multiple archetypes and various weapons made on purpose for the class",
+    "tags": [
+      "5e2024",
+      "fantasy",
+      "homebrew",
+      "class",
+      "weapons",
+      "star-wars"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "giacomomorlando06-commits/star-wars-force-user-class-and-saber-weapons-pack-",
+    "repo_url": "https://giacomomorlando06-commits.github.io/star-wars-force-user-class-and-saber-weapons-pack-/",
+    "has_system": false
   }
 ]
