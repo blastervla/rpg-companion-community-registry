@@ -3030,5 +3030,22 @@
     "github_repo": "giacomomorlando06-commits/star-wars-force-user-class-and-saber-weapons-pack-",
     "repo_url": "https://giacomomorlando06-commits.github.io/star-wars-force-user-class-and-saber-weapons-pack-/",
     "has_system": false
+  },
+  {
+    "name": "Enhancement-stones",
+    "description": "Money spells to add rivers of water and illuminating light to your garden of wealth, magical interaction with the environment as a pair to enhance spell work and casting and is done with ease.",
+    "tags": [
+      "5e",
+      "homebrew",
+      "fantasy"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "hhgoat-dot/Enhancement-stones",
+    "repo_url": "https://hhgoat-dot.github.io/Enhancement-stones/",
+    "has_system": false
   }
 ]
