@@ -3047,5 +3047,24 @@
     "github_repo": "hhgoat-dot/Enhancement-stones",
     "repo_url": "https://hhgoat-dot.github.io/Enhancement-stones/",
     "has_system": false
+  },
+  {
+    "name": "Arcana-Unleashed-Deadfall-bestiary",
+    "description": "Monster from the Arcana Unleashed Deadfall adventure ",
+    "tags": [
+      "5e2024",
+      "forgotten-realms",
+      "monsters",
+      "arcana-unleashed-deadfall",
+      "arcana-unleashed"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "capocchiad-del/Arcana-Unleashed-Deadfall-bestiary",
+    "repo_url": "https://capocchiad-del.github.io/Arcana-Unleashed-Deadfall-bestiary/",
+    "has_system": false
   }
 ]
