@@ -3081,5 +3081,22 @@
     "github_repo": "meeskoster12-max/rune-carver-back-graund",
     "repo_url": "https://meeskoster12-max.github.io/rune-carver-back-graund/",
     "has_system": false
+  },
+  {
+    "name": "cossack-warrior-class",
+    "description": "A pack where you take on the powers of legendary kharakternyk and Hetmans like Ivan Sirko. One class, two weapons are added. Fight like you'll never die, for the glory of the Hetman!",
+    "tags": [
+      "5e",
+      "homebrew",
+      "class"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "YourLocalAetherian/cossack-warrior-class",
+    "repo_url": "https://YourLocalAetherian.github.io/cossack-warrior-class/",
+    "has_system": false
   }
 ]
