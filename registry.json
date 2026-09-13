@@ -1919,6 +1919,9 @@
     "stars": 0,
     "github_repo": "Cablako/Monster-Hunting-Tamer",
     "repo_url": "https://Cablako.github.io/Monster-Hunting-Tamer/",
-    "has_system": false
+    "has_system": false,
+    "systems": [
+      "5e2024"
+    ]
   }
 ]
