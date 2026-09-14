@@ -3098,5 +3098,21 @@
     "github_repo": "YourLocalAetherian/cossack-warrior-class",
     "repo_url": "https://YourLocalAetherian.github.io/cossack-warrior-class/",
     "has_system": false
+  },
+  {
+    "name": "Omegaverse-Supplimentary",
+    "description": "The definitive adventurer's guide to the omegaverse by BRIKOBLIN.",
+    "tags": [
+      "5e",
+      "homebrew"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "OneMouldyLime/Omegaverse-Supplimentary",
+    "repo_url": "https://OneMouldyLime.github.io/Omegaverse-Supplimentary/",
+    "has_system": false
   }
 ]
