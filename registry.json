@@ -3114,5 +3114,21 @@
     "github_repo": "OneMouldyLime/Omegaverse-Supplimentary",
     "repo_url": "https://OneMouldyLime.github.io/Omegaverse-Supplimentary/",
     "has_system": false
+  },
+  {
+    "name": "op--dungeon-and-Devil-fruits",
+    "description": "One Piece and Devil Fruits homebrew adapted for the RPG Companion",
+    "tags": [
+      "5e",
+      "one-piece"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "elsawafboudy2011-dotcom/op--dungeon-and-Devil-fruits",
+    "repo_url": "https://elsawafboudy2011-dotcom.github.io/op--dungeon-and-Devil-fruits/",
+    "has_system": false
   }
 ]
