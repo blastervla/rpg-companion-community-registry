@@ -37,6 +37,25 @@
     "stars": 0
   },
   {
+  "name": "Pointy Hat Necromancer Class",
+  "description": "Features the Pointy Hat Necromancer class with the Hemomancer, Medium, and Overlord subclasses, custom Necromantic Formulae, and dark arcane spells.",
+  "tags": [
+    "5e",
+    "homebrew",
+    "class",
+    "necromancer",
+    "spells"
+  ],
+  "origin": "homebrew",
+  "systems": [
+    "5e"
+  ],
+  "stars": 0,
+  "github_repo": "LitTheFire/necromancer_pointyhat",
+  "repo_url": "https://litthefire.github.io/Necromancer-class/necromancer_pointy_hat.json",
+  "has_system": false
+  },
+  {
     "id": "RU-RPG-Companion-App",
     "name": "RU-5e",
     "description": "Translated 5e to russian language",
