@@ -2087,5 +2087,21 @@
     "github_repo": "laurieanngraves-art/new-races",
     "repo_url": "https://laurieanngraves-art.github.io/new-races/",
     "has_system": false
+  },
+  {
+    "name": "gambler-class",
+    "description": "the gambler class that's it",
+    "tags": [
+      "5e",
+      "class"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "laurieanngraves-art/gambler-class",
+    "repo_url": "https://laurieanngraves-art.github.io/gambler-class/",
+    "has_system": false
   }
 ]
