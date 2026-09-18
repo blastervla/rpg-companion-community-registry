@@ -3130,5 +3130,40 @@
     "github_repo": "elsawafboudy2011-dotcom/op--dungeon-and-Devil-fruits",
     "repo_url": "https://elsawafboudy2011-dotcom.github.io/op--dungeon-and-Devil-fruits/",
     "has_system": false
+  },
+    {
+    "name": "new-races",
+    "description": "Merfolk, Weaver and Granite races + Psyion class",
+    "tags": [
+      "5e",
+      "class",
+      "homebrew",
+      "race"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "laurieanngraves-art/new-races",
+    "repo_url": "https://laurieanngraves-art.github.io/new-races/",
+    "has_system": false
+  },
+  {
+    "name": "gambler-class",
+    "description": "The gambler class",
+    "tags": [
+      "5e",
+      "class",
+      "homebrew"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "laurieanngraves-art/gambler-class",
+    "repo_url": "https://laurieanngraves-art.github.io/gambler-class/",
+    "has_system": false
   }
 ]
