@@ -3131,7 +3131,7 @@
     "repo_url": "https://elsawafboudy2011-dotcom.github.io/op--dungeon-and-Devil-fruits/",
     "has_system": false
   },
-    {
+  {
     "name": "new-races",
     "description": "Merfolk, Weaver and Granite races + Psyion class",
     "tags": [
@@ -3164,6 +3164,21 @@
     "stars": 0,
     "github_repo": "laurieanngraves-art/gambler-class",
     "repo_url": "https://laurieanngraves-art.github.io/gambler-class/",
+    "has_system": false
+  },
+  {
+    "name": "-Legacy-and-non-Artificer-spell-list",
+    "description": "these are spells from the official rule book added for the artificiers that were not added to the classes",
+    "tags": [
+      "5e2024"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Kevin-GM-Secretary/-Legacy-and-non-Artificer-spell-list",
+    "repo_url": "https://Kevin-GM-Secretary.github.io/-Legacy-and-non-Artificer-spell-list/",
     "has_system": false
   }
 ]
