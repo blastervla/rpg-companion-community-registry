@@ -3180,5 +3180,25 @@
     "github_repo": "Kevin-GM-Secretary/-Legacy-and-non-Artificer-spell-list",
     "repo_url": "https://Kevin-GM-Secretary.github.io/-Legacy-and-non-Artificer-spell-list/",
     "has_system": false
+  },
+  {
+    "name": "Yeager-class",
+    "description": "A class that adds mechanics on the class and subclasses based on Bloodborne, the Witcher, mortal shell and others (not my original creation)",
+    "tags": [
+      "5e",
+      "class",
+      "subclass",
+      "bloodborne",
+      "the-witcher",
+      "mortal-shell"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "juancruznoriega1998-png/Yeager-class",
+    "repo_url": "https://juancruznoriega1998-png.github.io/Yeager-class/",
+    "has_system": false
   }
 ]
