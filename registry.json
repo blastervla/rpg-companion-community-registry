@@ -3200,5 +3200,24 @@
     "github_repo": "juancruznoriega1998-png/Yeager-class",
     "repo_url": "https://juancruznoriega1998-png.github.io/Yeager-class/",
     "has_system": false
+  },
+  {
+    "name": "blood-hunter-curses",
+    "description": "adds blood Curses to spells for convience ",
+    "tags": [
+      "5e2024",
+      "fantasy",
+      "class",
+      "blood-hunter",
+      "blood-curse"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "lycandog/blood-hunter-curses",
+    "repo_url": "https://lycandog.github.io/blood-hunter-curses/",
+    "has_system": false
   }
 ]
