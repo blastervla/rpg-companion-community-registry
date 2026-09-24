@@ -3202,25 +3202,6 @@
     "has_system": false
   },
   {
-    "name": "Blood-Curses-blood-hunter-",
-    "description": "put blood Curses into spells for convience",
-    "tags": [
-      "5e2024",
-      "5e",
-      "fantasy",
-      "bloodcurses",
-      "bloodhunter"
-    ],
-    "origin": "official",
-    "systems": [
-      "5e2024"
-    ],
-    "stars": 0,
-    "github_repo": "lycandog/Blood-Curses-blood-hunter-",
-    "repo_url": "https://lycandog.github.io/Blood-Curses-blood-hunter-/",
-    "has_system": false
-  },
-  {
     "name": "blood-hunter-curses",
     "description": "adds blood Curses to spells for convience ",
     "tags": [
