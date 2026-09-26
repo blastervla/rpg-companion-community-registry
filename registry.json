@@ -3180,5 +3180,23 @@
     "github_repo": "Kevin-GM-Secretary/-Legacy-and-non-Artificer-spell-list",
     "repo_url": "https://Kevin-GM-Secretary.github.io/-Legacy-and-non-Artificer-spell-list/",
     "has_system": false
+  },
+  {
+    "name": "Warlock-5e-sub-and-invocations",
+    "description": "Warlock with 5e subclasses and the old invocations.",
+    "tags": [
+      "5e2024",
+      "5e",
+      "subclass",
+      "invocations"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Kevin-GM-Secretary/Warlock-5e-sub-and-invocations",
+    "repo_url": "https://Kevin-GM-Secretary.github.io/Warlock-5e-sub-and-invocations/",
+    "has_system": false
   }
 ]
