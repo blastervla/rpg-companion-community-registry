@@ -3237,5 +3237,22 @@
     "github_repo": "Kevin-GM-Secretary/Warlock-5e-sub-and-invocations",
     "repo_url": "https://Kevin-GM-Secretary.github.io/Warlock-5e-sub-and-invocations/",
     "has_system": false
+  },
+  {
+    "name": "Ratcrobat",
+    "description": "These foul humanoids were polymorphed into rat-like forms of themselves after disappointing an arch-hag with their performance. Great for any horror or silly campaign, depending on how you use them.",
+    "tags": [
+      "5e",
+      "homebrew",
+      "monsters"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "WaMXXVII/Ratcrobat",
+    "repo_url": "https://WaMXXVII.github.io/Ratcrobat/",
+    "has_system": false
   }
 ]
