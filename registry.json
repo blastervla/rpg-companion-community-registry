@@ -3254,5 +3254,21 @@
     "github_repo": "WaMXXVII/Ratcrobat",
     "repo_url": "https://WaMXXVII.github.io/Ratcrobat/",
     "has_system": false
+  },
+  {
+    "name": "Archer-class",
+    "description": "Ever feel like ranged martials are underrepresented in 5e? Well here's my homebrew Archer class. Complete with 3 unique subclasses.",
+    "tags": [
+      "5e",
+      "class"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "WaMXXVII/Archer-class",
+    "repo_url": "https://WaMXXVII.github.io/Archer-class/",
+    "has_system": false
   }
 ]
