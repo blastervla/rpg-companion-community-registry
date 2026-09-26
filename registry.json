@@ -3182,6 +3182,45 @@
     "has_system": false
   },
   {
+    "name": "Yeager-class",
+    "description": "A class that adds mechanics on the class and subclasses based on Bloodborne, the Witcher, mortal shell and others (not my original creation)",
+    "tags": [
+      "5e",
+      "class",
+      "subclass",
+      "bloodborne",
+      "the-witcher",
+      "mortal-shell"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "juancruznoriega1998-png/Yeager-class",
+    "repo_url": "https://juancruznoriega1998-png.github.io/Yeager-class/",
+    "has_system": false
+  },
+  {
+    "name": "blood-hunter-curses",
+    "description": "adds blood Curses to spells for convience ",
+    "tags": [
+      "5e2024",
+      "fantasy",
+      "class",
+      "blood-hunter",
+      "blood-curse"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "lycandog/blood-hunter-curses",
+    "repo_url": "https://lycandog.github.io/blood-hunter-curses/",
+    "has_system": false
+  },
+  {
     "name": "Warlock-5e-sub-and-invocations",
     "description": "Warlock with 5e subclasses and the old invocations.",
     "tags": [
