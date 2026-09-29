@@ -3288,5 +3288,22 @@
     "github_repo": "Jaguar2k9/Corvum-Race",
     "repo_url": "https://Jaguar2k9.github.io/Corvum-Race/",
     "has_system": false
+  },
+  {
+    "name": "Glyphomancy-subclass",
+    "description": "Glyphomancy subclass for Wizard",
+    "tags": [
+      "5e2024",
+      "subclass",
+      "wizard"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Gandalfist/Glyphomancy-subclass",
+    "repo_url": "https://Gandalfist.github.io/Glyphomancy-subclass/",
+    "has_system": false
   }
 ]
