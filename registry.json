@@ -3305,5 +3305,25 @@
     "github_repo": "Gandalfist/Glyphomancy-subclass",
     "repo_url": "https://Gandalfist.github.io/Glyphomancy-subclass/",
     "has_system": false
+  },
+  {
+    "name": "Steinhards-Guide-to-the-Eldrich-Hunt-spells-",
+    "description": "The spells focus on harsh power and Osteomancy with some good debuffing spells inbetween",
+    "tags": [
+      "5e",
+      "eldrich",
+      "homebrew",
+      "5e2024",
+      "sgtteh",
+      "steinhard"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "R3D-404/Steinhards-Guide-to-the-Eldrich-Hunt-spells-",
+    "repo_url": "https://R3D-404.github.io/Steinhards-Guide-to-the-Eldrich-Hunt-spells-/",
+    "has_system": false
   }
 ]
