@@ -3305,5 +3305,42 @@
     "github_repo": "Gandalfist/Glyphomancy-subclass",
     "repo_url": "https://Gandalfist.github.io/Glyphomancy-subclass/",
     "has_system": false
+  },
+  {
+    "name": "Steinhards-Guide-to-the-Eldrich-Hunt-",
+    "description": "Spells from the SGttEH book, I may have missed some out I'll update if I can",
+    "tags": [
+      "5e",
+      "homebrew",
+      "eldrich",
+      "steinhard"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "rosethomson43-jpg/Steinhards-Guide-to-the-Eldrich-Hunt-",
+    "repo_url": "https://rosethomson43-jpg.github.io/Steinhards-Guide-to-the-Eldrich-Hunt-/",
+    "has_system": false
+  },
+  {
+    "name": "Steinhards-Guide-to-the-Eldrich-Hunt-spells",
+    "description": "Spells from the SGttEH source, if I've missed any I will update with them later",
+    "tags": [
+      "5e",
+      "homebrew",
+      "eldrich",
+      "sgtteh",
+      "steinhard"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "rosethomson43-jpg/Steinhards-Guide-to-the-Eldrich-Hunt-spells",
+    "repo_url": "https://rosethomson43-jpg.github.io/Steinhards-Guide-to-the-Eldrich-Hunt-spells/",
+    "has_system": false
   }
 ]
