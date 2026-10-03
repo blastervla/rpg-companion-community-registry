@@ -3305,5 +3305,24 @@
     "github_repo": "Gandalfist/Glyphomancy-subclass",
     "repo_url": "https://Gandalfist.github.io/Glyphomancy-subclass/",
     "has_system": false
+  },
+  {
+    "name": "Elementalist-Sorcerer-Subclass",
+    "description": "Just a quick mockup of the Elementalist homebrew class, revised as a Sorcerer subclass.",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "subclass",
+      "elementalist",
+      "fantasy"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Khalte/Elementalist-Sorcerer-Subclass",
+    "repo_url": "https://Khalte.github.io/Elementalist-Sorcerer-Subclass/",
+    "has_system": false
   }
 ]
