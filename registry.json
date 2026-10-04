@@ -3307,6 +3307,24 @@
     "has_system": false
   },
   {
+    "name": "Galdr-Class",
+    "description": "A homebrew class based around hemocraft, where your natural talent in intelligence grants access to dark magics that may be used for good or evil in equal accord.",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "class",
+      "hemocraft"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "guyyoudontknowe-byte/Galdr-Class",
+    "repo_url": "https://guyyoudontknowe-byte.github.io/Galdr-Class/",
+    "has_system": false
+  },
+  {
     "name": "Grim-Hollows-Subclasses",
     "description": "Subclasses from the grim hollows player guide",
     "tags": [
