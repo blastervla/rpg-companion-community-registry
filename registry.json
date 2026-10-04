@@ -3375,5 +3375,21 @@
     "github_repo": "Death7310/DnD-Half-Elf-Aasimar",
     "repo_url": "https://Death7310.github.io/DnD-Half-Elf-Aasimar/",
     "has_system": false
+  },
+  {
+    "name": "Steinhards-Guide-to-the-Eldritch-Hunt-spells",
+    "description": "The spells focus on harsh power and Osteomancy with some good debuffing spells inbetween",
+    "tags": [
+      "5e",
+      "sgtteh"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "R3D-404/Steinhards-Guide-to-the-Eldrich-Hunt-spells-",
+    "repo_url": "https://R3D-404.github.io/Steinhards-Guide-to-the-Eldrich-Hunt-spells-/",
+    "has_system": false
   }
 ]
