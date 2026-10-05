@@ -3391,5 +3391,21 @@
     "github_repo": "R3D-404/Steinhards-Guide-to-the-Eldrich-Hunt-spells-",
     "repo_url": "https://R3D-404.github.io/Steinhards-Guide-to-the-Eldrich-Hunt-spells-/",
     "has_system": false
+  },
+  {
+    "name": "Arcana-Unleashed-Backgrounds-and-Feats",
+    "description": "Feats and Backgrounds from Arcana Unleashed",
+    "tags": [
+      "5e2024",
+      "arcana-unleashed"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "jlarson5459/Arcana-Unleashed-Backgrounds-and-Feats",
+    "repo_url": "https://jlarson5459.github.io/Arcana-Unleashed-Backgrounds-and-Feats/",
+    "has_system": false
   }
 ]
