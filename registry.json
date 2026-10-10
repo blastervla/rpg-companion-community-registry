@@ -3407,5 +3407,22 @@
     "github_repo": "jlarson5459/Arcana-Unleashed-Backgrounds-and-Feats",
     "repo_url": "https://jlarson5459.github.io/Arcana-Unleashed-Backgrounds-and-Feats/",
     "has_system": false
+  },
+  {
+    "name": "Starcraft-dark-templar-homebrew",
+    "description": "I just like Starcraft and dnd so I tried to make a dark templar class",
+    "tags": [
+      "5e",
+      "starcraft-2",
+      "class"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "mechaFlamingo/Starcraft-dark-templar-homebrew",
+    "repo_url": "https://mechaFlamingo.github.io/Starcraft-dark-templar-homebrew/",
+    "has_system": false
   }
 ]
