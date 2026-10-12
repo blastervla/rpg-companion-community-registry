@@ -3424,5 +3424,23 @@
     "github_repo": "mechaFlamingo/Starcraft-dark-templar-homebrew",
     "repo_url": "https://mechaFlamingo.github.io/Starcraft-dark-templar-homebrew/",
     "has_system": false
+  },
+  {
+    "name": "The-Reaper-Class",
+    "description": "when those whose evade death think there save they will hear a whistle in the distance and the reaper is will be there to collect their toll and bring order back to God of death",
+    "tags": [
+      "5e",
+      "fantasy",
+      "homebrew",
+      "class"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "ricardohopkins06-sketch/The-Reaper-Class",
+    "repo_url": "https://ricardohopkins06-sketch.github.io/The-Reaper-Class/",
+    "has_system": false
   }
 ]
