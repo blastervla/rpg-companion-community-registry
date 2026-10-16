@@ -3442,5 +3442,23 @@
     "github_repo": "ricardohopkins06-sketch/The-Reaper-Class",
     "repo_url": "https://ricardohopkins06-sketch.github.io/The-Reaper-Class/",
     "has_system": false
+  },
+  {
+    "name": "TalDorei-Campaign-Setting-Reborn",
+    "description": "Tal’Dorei Campaign Setting: Reborn is for GMs who wish to run fantasy RPG campaigns set on the continent of Critical Role’s first campaign.",
+    "tags": [
+      "5e",
+      "critical-role",
+      "druid",
+      "taldorei"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "plasticparadigm/TalDorei-Campaign-Setting-Reborn",
+    "repo_url": "https://plasticparadigm.github.io/TalDorei-Campaign-Setting-Reborn/",
+    "has_system": false
   }
 ]
