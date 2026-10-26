@@ -3407,5 +3407,22 @@
     "github_repo": "jlarson5459/Arcana-Unleashed-Backgrounds-and-Feats",
     "repo_url": "https://jlarson5459.github.io/Arcana-Unleashed-Backgrounds-and-Feats/",
     "has_system": false
+  },
+  {
+    "name": "Arcana-Unleashed-Subclasses",
+    "description": "Cleric, Fighter, Monk, Warlock and Wizard updated with Arcana Unleashed subclasses",
+    "tags": [
+      "5e2024",
+      "arcana-unleashed",
+      "subclass"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "jlarson5459/Arcana-Unleashed-Subclasses",
+    "repo_url": "https://jlarson5459.github.io/Arcana-Unleashed-Subclasses/",
+    "has_system": false
   }
 ]
