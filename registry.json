@@ -2473,7 +2473,7 @@
     "systems": [
       "5e2024"
     ],
-    "stars": 0,
+    "stars": 1,
     "github_repo": "dominiklovricdnd/Paragon-dnd-5.5-class",
     "repo_url": "https://dominiklovricdnd.github.io/Paragon-dnd-5.5-class/",
     "has_system": false
@@ -3043,7 +3043,7 @@
     "systems": [
       "5e"
     ],
-    "stars": 3,
+    "stars": 7,
     "github_repo": "hhgoat-dot/Enhancement-stones",
     "repo_url": "https://hhgoat-dot.github.io/Enhancement-stones/",
     "has_system": false
@@ -3250,7 +3250,7 @@
     "systems": [
       "5e"
     ],
-    "stars": 0,
+    "stars": 1,
     "github_repo": "WaMXXVII/Ratcrobat",
     "repo_url": "https://WaMXXVII.github.io/Ratcrobat/",
     "has_system": false
@@ -3266,7 +3266,7 @@
     "systems": [
       "5e"
     ],
-    "stars": 0,
+    "stars": 1,
     "github_repo": "WaMXXVII/Archer-class",
     "repo_url": "https://WaMXXVII.github.io/Archer-class/",
     "has_system": false
@@ -3423,6 +3423,115 @@
     "stars": 0,
     "github_repo": "jlarson5459/Arcana-Unleashed-Subclasses",
     "repo_url": "https://jlarson5459.github.io/Arcana-Unleashed-Subclasses/",
+    "has_system": false
+  },
+  {
+    "name": "Starcraft-dark-templar-homebrew",
+    "description": "I just like Starcraft and dnd so I tried to make a dark templar class",
+    "tags": [
+      "5e",
+      "starcraft-2",
+      "class"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "mechaFlamingo/Starcraft-dark-templar-homebrew",
+    "repo_url": "https://mechaFlamingo.github.io/Starcraft-dark-templar-homebrew/",
+    "has_system": false
+  },
+  {
+    "name": "The-Reaper-Class",
+    "description": "when those whose evade death think there save they will hear a whistle in the distance and the reaper is will be there to collect their toll and bring order back to God of death",
+    "tags": [
+      "5e",
+      "fantasy",
+      "homebrew",
+      "class"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "ricardohopkins06-sketch/The-Reaper-Class",
+    "repo_url": "https://ricardohopkins06-sketch.github.io/The-Reaper-Class/",
+    "has_system": false
+  },
+  {
+    "name": "TalDorei-Campaign-Setting-Reborn",
+    "description": "Tal’Dorei Campaign Setting: Reborn is for GMs who wish to run fantasy RPG campaigns set on the continent of Critical Role’s first campaign.",
+    "tags": [
+      "5e",
+      "critical-role",
+      "druid",
+      "taldorei"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "plasticparadigm/TalDorei-Campaign-Setting-Reborn",
+    "repo_url": "https://plasticparadigm.github.io/TalDorei-Campaign-Setting-Reborn/",
+    "has_system": false
+  },
+  {
+    "id": "sigil-and-outlands-5e2024",
+    "name": "Sigil and the Outlands - 5e2024",
+    "description": "Planar feat chain (Scion of the Outer Planes and its five follow-ups) ported faithfully from Sigil and the Outlands, plus the Gate Warden / Planar Philosopher backgrounds adapted to the 5e2024 background format (ability score increase and equipment package choices are original conversions, since this book was never officially updated for 2024 rules).",
+    "tags": [
+      "fantasy",
+      "5e2024",
+      "planescape",
+      "feats",
+      "backgrounds"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "NGrant92/sigil-and-outlands-5e2024",
+    "repo_url": "https://ngrant92.github.io/sigil-and-outlands-5e2024/",
+    "has_system": false
+  },
+  {
+    "name": "Deep-Crow-Life-Stages-Tethered-Banshee-Race",
+    "description": "Statblocks for deep crow stages of hatchlings, young, and teen. Also a homebrew banshee race because my player wanted to be a character from limbus or something.",
+    "tags": [
+      "5e",
+      "homebrew",
+      "race",
+      "monsters"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "bananaramen670/Deep-Crow-Life-Stages-Tethered-Banshee-Race",
+    "repo_url": "https://bananaramen670.github.io/Deep-Crow-Life-Stages-Tethered-Banshee-Race/",
+    "has_system": false
+  },
+  {
+    "name": "dragonrider-class",
+    "description": "a new class around the cocept of a dragonrider and a new race about a race with many diffirences ",
+    "tags": [
+      "5e",
+      "homebrew",
+      "class",
+      "race"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "8nj8rr6dm5-hue/dragonrider-class",
+    "repo_url": "https://8nj8rr6dm5-hue.github.io/dragonrider-class/",
     "has_system": false
   }
 ]
