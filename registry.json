@@ -3533,5 +3533,22 @@
     "github_repo": "8nj8rr6dm5-hue/dragonrider-class",
     "repo_url": "https://8nj8rr6dm5-hue.github.io/dragonrider-class/",
     "has_system": false
+  },
+  {
+    "name": "Grim-hollow-feats",
+    "description": "general, origin and fighting Style feats",
+    "tags": [
+      "5e2024",
+      "grim-hollow-player's-guide-2024",
+      "feats"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Braindead78/Grim-hollow-feats",
+    "repo_url": "https://Braindead78.github.io/Grim-hollow-feats/",
+    "has_system": false
   }
 ]
