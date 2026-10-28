@@ -3550,5 +3550,26 @@
     "github_repo": "Braindead78/Grim-hollow-feats",
     "repo_url": "https://Braindead78.github.io/Grim-hollow-feats/",
     "has_system": false
+  },
+  {
+    "name": "Warforged-Species",
+    "description": "Contains traits and abilities from the Eberron Published Materials.",
+    "tags": [
+      "5e2024",
+      "5e",
+      "race",
+      "monsters",
+      "species",
+      "eberron",
+      "warforged"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Mape-design/Warforged-Species",
+    "repo_url": "https://Mape-design.github.io/Warforged-Species/",
+    "has_system": false
   }
 ]
