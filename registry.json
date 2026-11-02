@@ -3571,5 +3571,24 @@
     "github_repo": "Mape-design/Warforged-Species",
     "repo_url": "https://Mape-design.github.io/Warforged-Species/",
     "has_system": false
+  },
+  {
+    "name": "Helina-s-Guide-to-Monster-Hunting-Races",
+    "description": "specific and exclusive races from Helina's Guide to Monster Hunting Races or a monster hunter inspired campaign ",
+    "tags": [
+      "5e2024",
+      "5e",
+      "fantasy",
+      "race",
+      "monster-hunter"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "emika6950-afk/Helina-s-Guide-to-Monster-Hunting-Races",
+    "repo_url": "https://emika6950-afk.github.io/Helina-s-Guide-to-Monster-Hunting-Races/",
+    "has_system": false
   }
 ]
