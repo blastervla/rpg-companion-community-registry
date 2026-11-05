@@ -3589,5 +3589,23 @@
     "github_repo": "emika6950-afk/Helina-s-Guide-to-Monster-Hunting-Races",
     "repo_url": "https://emika6950-afk.github.io/Helina-s-Guide-to-Monster-Hunting-Races/",
     "has_system": false
+  },
+  {
+    "name": "mage-hand-press-gunslinger",
+    "description": "The Gunslinger class published by Mage Hand Press, with some subclasses (will update with more)",
+    "tags": [
+      "5e2024",
+      "5e",
+      "class",
+      "subclass"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "bartok05/mage-hand-press-gunslinger",
+    "repo_url": "https://bartok05.github.io/mage-hand-press-gunslinger/",
+    "has_system": false
   }
 ]
