@@ -3623,5 +3623,20 @@
     "github_repo": "Cervenia/Cervenia-Items",
     "repo_url": "https://Cervenia.github.io/Cervenia-Items/",
     "has_system": false
+  },
+  {
+    "name": "Cervenia-Weapons",
+    "description": "Weapons for Cervenia Campaign",
+    "tags": [
+      "5e2024"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Cervenia/Cervenia-Weapons",
+    "repo_url": "https://Cervenia.github.io/Cervenia-Weapons/",
+    "has_system": false
   }
 ]
