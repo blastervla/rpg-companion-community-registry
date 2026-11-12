@@ -3624,5 +3624,22 @@
     "github_repo": "whovian11561/-SPECIES-RACE-Floral-Dragonborn",
     "repo_url": "https://whovian11561.github.io/-SPECIES-RACE-Floral-Dragonborn/",
     "has_system": false
+  },
+  {
+    "name": "Hollow-Knight-Class",
+    "description": "A fresh new class inspired by the game Hollow Knight",
+    "tags": [
+      "5e",
+      "class",
+      "homebrew"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Umbralock/Hollow-Knight-Class",
+    "repo_url": "https://Umbralock.github.io/Hollow-Knight-Class/",
+    "has_system": false
   }
 ]
