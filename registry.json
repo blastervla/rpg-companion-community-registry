@@ -3533,5 +3533,21 @@
     "github_repo": "8nj8rr6dm5-hue/dragonrider-class",
     "repo_url": "https://8nj8rr6dm5-hue.github.io/dragonrider-class/",
     "has_system": false
+  },
+  {
+    "name": "Arcana-Unleashed-Spells",
+    "description": "33 Spells added in Arcana Unleashed ",
+    "tags": [
+      "5e2024",
+      "arcana-unleashed"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "jlarson5459/Arcana-Unleashed-Spells",
+    "repo_url": "https://jlarson5459.github.io/Arcana-Unleashed-Spells/",
+    "has_system": false
   }
 ]
