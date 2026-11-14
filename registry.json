@@ -3641,5 +3641,21 @@
     "github_repo": "Umbralock/Hollow-Knight-Class",
     "repo_url": "https://Umbralock.github.io/Hollow-Knight-Class/",
     "has_system": false
+  },
+  {
+    "name": "Arcana-Unleashed-Spells",
+    "description": "33 Spells added in Arcana Unleashed ",
+    "tags": [
+      "5e2024",
+      "arcana-unleashed"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "jlarson5459/Arcana-Unleashed-Spells",
+    "repo_url": "https://jlarson5459.github.io/Arcana-Unleashed-Spells/",
+    "has_system": false
   }
 ]
