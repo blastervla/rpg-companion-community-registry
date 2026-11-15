@@ -3657,5 +3657,24 @@
     "github_repo": "jlarson5459/Arcana-Unleashed-Spells",
     "repo_url": "https://jlarson5459.github.io/Arcana-Unleashed-Spells/",
     "has_system": false
+  },
+  {
+    "name": "homebrew-backgrounds",
+    "description": "custom backgrounds for my characters",
+    "tags": [
+      "5e2024",
+      "5e",
+      "arcana-unleashed",
+      "forgotten-realms",
+      "heroes-of-faerun"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "korusa119/homebrew-backgrounds",
+    "repo_url": "https://korusa119.github.io/homebrew-backgrounds/",
+    "has_system": false
   }
 ]
