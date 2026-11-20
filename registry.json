@@ -3609,13 +3609,79 @@
     "has_system": false
   },
   {
+    "name": "-SPECIES-RACE-Floral-Dragonborn",
+    "description": "The species \"Floral Dragonborn\" from The Field Guide to Floral Dragons",
+    "tags": [
+      "5e2024",
+      "race",
+      "species"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "whovian11561/-SPECIES-RACE-Floral-Dragonborn",
+    "repo_url": "https://whovian11561.github.io/-SPECIES-RACE-Floral-Dragonborn/",
+    "has_system": false
+  },
+  {
+    "name": "Hollow-Knight-Class",
+    "description": "A fresh new class inspired by the game Hollow Knight",
+    "tags": [
+      "5e",
+      "class",
+      "homebrew"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Umbralock/Hollow-Knight-Class",
+    "repo_url": "https://Umbralock.github.io/Hollow-Knight-Class/",
+    "has_system": false
+  },
+  {
+    "name": "Arcana-Unleashed-Spells",
+    "description": "33 Spells added in Arcana Unleashed ",
+    "tags": [
+      "5e2024",
+      "arcana-unleashed"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "jlarson5459/Arcana-Unleashed-Spells",
+    "repo_url": "https://jlarson5459.github.io/Arcana-Unleashed-Spells/",
+    "has_system": false
+  },
+  {
+    "name": "Sorrow-Knight",
+    "description": "Channel Despair and Darkness to Protect Others",
+    "tags": [
+      "5e2024",
+      "subclass"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "EllieTwo/Sorrow-Knight",
+    "repo_url": "https://EllieTwo.github.io/Sorrow-Knight/",
+    "has_system": false
+  },
+  {
     "name": "sebastian-crowe-drakkenheim",
     "description": "Subclasses and spells from sebastian crowes guide to drakkenheim (will update with more)",
     "tags": [
       "5e2024",
       "subclass"
     ],
-    "origin": "official",
+    "origin": "published",
     "systems": [
       "5e2024"
     ],
