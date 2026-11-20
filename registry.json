@@ -3673,5 +3673,21 @@
     "github_repo": "EllieTwo/Sorrow-Knight",
     "repo_url": "https://EllieTwo.github.io/Sorrow-Knight/",
     "has_system": false
+  },
+  {
+    "name": "sebastian-crowe-drakkenheim",
+    "description": "Subclasses and spells from sebastian crowes guide to drakkenheim (will update with more)",
+    "tags": [
+      "5e2024",
+      "subclass"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "bartok05/sebastian-crowe-drakkenheim",
+    "repo_url": "https://bartok05.github.io/sebastian-crowe-drakkenheim/",
+    "has_system": false
   }
 ]
