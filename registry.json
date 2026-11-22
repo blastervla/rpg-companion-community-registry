@@ -3689,5 +3689,25 @@
     "github_repo": "bartok05/sebastian-crowe-drakkenheim",
     "repo_url": "https://bartok05.github.io/sebastian-crowe-drakkenheim/",
     "has_system": false
+  },
+  {
+    "name": "Favored-Soul-Origin",
+    "description": "This repo adds the Favored Soul origin for sorcerers.",
+    "tags": [
+      "5e",
+      "arcana-unleashed",
+      "subclass",
+      "sorcerer",
+      "archetype",
+      "5e2014"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "VashBot99/Favored-Soul-Origin",
+    "repo_url": "https://VashBot99.github.io/Favored-Soul-Origin/",
+    "has_system": false
   }
 ]
