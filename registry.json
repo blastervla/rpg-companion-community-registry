@@ -3709,5 +3709,23 @@
     "github_repo": "VashBot99/Favored-Soul-Origin",
     "repo_url": "https://VashBot99.github.io/Favored-Soul-Origin/",
     "has_system": false
+  },
+  {
+    "name": "Savage Worlds (SWADE)",
+    "description": "Full Savage Worlds Adventure Edition (SWADE) ruleset with character sheet, exploding dice, wild die, benny mechanics, and 51 starter compendium items.",
+    "tags": [
+      "swade",
+      "savage-worlds",
+      "core",
+      "system"
+    ],
+    "origin": "official",
+    "systems": [
+      "swade"
+    ],
+    "stars": 0,
+    "github_repo": "ctrl-alton-delete/swade-rpg-companion",
+    "repo_url": "https://ctrl-alton-delete.github.io/swade-rpg-companion/",
+    "has_system": true
   }
 ]
