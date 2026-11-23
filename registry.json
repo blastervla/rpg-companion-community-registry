@@ -3709,5 +3709,22 @@
     "github_repo": "VashBot99/Favored-Soul-Origin",
     "repo_url": "https://VashBot99.github.io/Favored-Soul-Origin/",
     "has_system": false
+  },
+  {
+    "name": "TheFoolCampaign",
+    "description": "just a custom campaign stuff for my players",
+    "tags": [
+      "5e2024",
+      "homebrew",
+      "feats"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "oreeaan/TheFoolCampaign",
+    "repo_url": "https://oreeaan.github.io/TheFoolCampaign/",
+    "has_system": false
   }
 ]
