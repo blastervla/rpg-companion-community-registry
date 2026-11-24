@@ -3727,5 +3727,22 @@
     "github_repo": "ctrl-alton-delete/swade-rpg-companion",
     "repo_url": "https://ctrl-alton-delete.github.io/swade-rpg-companion/",
     "has_system": true
+  },
+  {
+    "name": "Northlands-world-book-Feats",
+    "description": "all general,origin and fight style feats from northland world book",
+    "tags": [
+      "5e2024",
+      "feats",
+      "northlands-worldbook"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Braindead78/Northlands-world-book-Feats",
+    "repo_url": "https://Braindead78.github.io/Northlands-world-book-Feats/",
+    "has_system": false
   }
 ]
