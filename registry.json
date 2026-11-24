@@ -3517,12 +3517,11 @@
     "has_system": false
   },
   {
-    "name": "dragonrider-class",
-    "description": "a new class around the cocept of a dragonrider and a new race about a race with many diffirences ",
+    "name": "Kitsune-Race",
+    "description": "Not mine, stole this from reddit",
     "tags": [
       "5e",
       "homebrew",
-      "class",
       "race"
     ],
     "origin": "homebrew",
@@ -3530,82 +3529,25 @@
       "5e"
     ],
     "stars": 0,
-    "github_repo": "8nj8rr6dm5-hue/dragonrider-class",
-    "repo_url": "https://8nj8rr6dm5-hue.github.io/dragonrider-class/",
+    "github_repo": "bananaramen670/Kitsune-Race",
+    "repo_url": "https://bananaramen670.github.io/Better-Kitsune-Race-cuz-someone-made-one-that-was-ass/",
     "has_system": false
   },
   {
-    "name": "Grim-hollow-feats",
-    "description": "general, origin and fighting Style feats",
+    "name": "Kitsune-Race",
+    "description": "Not mine, stole this from reddit",
     "tags": [
-      "5e2024",
-      "grim-hollow-player's-guide-2024",
-      "feats"
-    ],
-    "origin": "published",
-    "systems": [
-      "5e2024"
-    ],
-    "stars": 0,
-    "github_repo": "Braindead78/Grim-hollow-feats",
-    "repo_url": "https://Braindead78.github.io/Grim-hollow-feats/",
-    "has_system": false
-  },
-  {
-    "name": "Warforged-Species",
-    "description": "Contains traits and abilities from the Eberron Published Materials.",
-    "tags": [
-      "5e2024",
       "5e",
-      "race",
-      "monsters",
-      "species",
-      "eberron",
-      "warforged"
+      "homebrew",
+      "race"
     ],
-    "origin": "official",
+    "origin": "homebrew",
     "systems": [
-      "5e2024"
+      "5e"
     ],
     "stars": 0,
-    "github_repo": "Mape-design/Warforged-Species",
-    "repo_url": "https://Mape-design.github.io/Warforged-Species/",
-    "has_system": false
-  },
-  {
-    "name": "Helina-s-Guide-to-Monster-Hunting-Races",
-    "description": "specific and exclusive races from Helina's Guide to Monster Hunting Races or a monster hunter inspired campaign ",
-    "tags": [
-      "5e2024",
-      "fantasy",
-      "race",
-      "monster-hunter"
-    ],
-    "origin": "published",
-    "systems": [
-      "5e2024"
-    ],
-    "stars": 0,
-    "github_repo": "emika6950-afk/Helina-s-Guide-to-Monster-Hunting-Races",
-    "repo_url": "https://emika6950-afk.github.io/Helina-s-Guide-to-Monster-Hunting-Races/",
-    "has_system": false
-  },
-  {
-    "name": "mage-hand-press-gunslinger",
-    "description": "The Gunslinger class published by Mage Hand Press, with some subclasses (will update with more)",
-    "tags": [
-      "5e2024",
-      "5e",
-      "class",
-      "subclass"
-    ],
-    "origin": "published",
-    "systems": [
-      "5e2024"
-    ],
-    "stars": 0,
-    "github_repo": "bartok05/mage-hand-press-gunslinger",
-    "repo_url": "https://bartok05.github.io/mage-hand-press-gunslinger/",
+    "github_repo": "bananaramen670/Kitsune-Race",
+    "repo_url": "https://bananaramen670.github.io/Kitsune-Race/",
     "has_system": false
   },
   {
