@@ -3552,6 +3552,183 @@
     "has_system": false
   },
   {
+    "name": "Warforged-Species",
+    "description": "Contains traits and abilities from the Eberron Published Materials.",
+    "tags": [
+      "5e2024",
+      "5e",
+      "race",
+      "monsters",
+      "species",
+      "eberron",
+      "warforged"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Mape-design/Warforged-Species",
+    "repo_url": "https://Mape-design.github.io/Warforged-Species/",
+    "has_system": false
+  },
+  {
+    "name": "Helina-s-Guide-to-Monster-Hunting-Races",
+    "description": "specific and exclusive races from Helina's Guide to Monster Hunting Races or a monster hunter inspired campaign ",
+    "tags": [
+      "5e2024",
+      "fantasy",
+      "race",
+      "monster-hunter"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "emika6950-afk/Helina-s-Guide-to-Monster-Hunting-Races",
+    "repo_url": "https://emika6950-afk.github.io/Helina-s-Guide-to-Monster-Hunting-Races/",
+    "has_system": false
+  },
+  {
+    "name": "mage-hand-press-gunslinger",
+    "description": "The Gunslinger class published by Mage Hand Press, with some subclasses (will update with more)",
+    "tags": [
+      "5e2024",
+      "5e",
+      "class",
+      "subclass"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "bartok05/mage-hand-press-gunslinger",
+    "repo_url": "https://bartok05.github.io/mage-hand-press-gunslinger/",
+    "has_system": false
+  },
+  {
+    "name": "-SPECIES-RACE-Floral-Dragonborn",
+    "description": "The species \"Floral Dragonborn\" from The Field Guide to Floral Dragons",
+    "tags": [
+      "5e2024",
+      "race",
+      "species"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "whovian11561/-SPECIES-RACE-Floral-Dragonborn",
+    "repo_url": "https://whovian11561.github.io/-SPECIES-RACE-Floral-Dragonborn/",
+    "has_system": false
+  },
+  {
+    "name": "Hollow-Knight-Class",
+    "description": "A fresh new class inspired by the game Hollow Knight",
+    "tags": [
+      "5e",
+      "class",
+      "homebrew"
+    ],
+    "origin": "homebrew",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "Umbralock/Hollow-Knight-Class",
+    "repo_url": "https://Umbralock.github.io/Hollow-Knight-Class/",
+    "has_system": false
+  },
+  {
+    "name": "Arcana-Unleashed-Spells",
+    "description": "33 Spells added in Arcana Unleashed ",
+    "tags": [
+      "5e2024",
+      "arcana-unleashed"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "jlarson5459/Arcana-Unleashed-Spells",
+    "repo_url": "https://jlarson5459.github.io/Arcana-Unleashed-Spells/",
+    "has_system": false
+  },
+  {
+    "name": "Sorrow-Knight",
+    "description": "Channel Despair and Darkness to Protect Others",
+    "tags": [
+      "5e2024",
+      "subclass"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "EllieTwo/Sorrow-Knight",
+    "repo_url": "https://EllieTwo.github.io/Sorrow-Knight/",
+    "has_system": false
+  },
+  {
+    "name": "sebastian-crowe-drakkenheim",
+    "description": "Subclasses and spells from sebastian crowes guide to drakkenheim (will update with more)",
+    "tags": [
+      "5e2024",
+      "subclass"
+    ],
+    "origin": "published",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "bartok05/sebastian-crowe-drakkenheim",
+    "repo_url": "https://bartok05.github.io/sebastian-crowe-drakkenheim/",
+    "has_system": false
+  },
+  {
+    "name": "Favored-Soul-Origin",
+    "description": "This repo adds the Favored Soul origin for sorcerers.",
+    "tags": [
+      "5e",
+      "arcana-unleashed",
+      "subclass",
+      "sorcerer",
+      "archetype",
+      "5e2014"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e"
+    ],
+    "stars": 0,
+    "github_repo": "VashBot99/Favored-Soul-Origin",
+    "repo_url": "https://VashBot99.github.io/Favored-Soul-Origin/",
+    "has_system": false
+  },
+  {
+    "name": "Savage Worlds (SWADE)",
+    "description": "Full Savage Worlds Adventure Edition (SWADE) ruleset with character sheet, exploding dice, wild die, benny mechanics, and 51 starter compendium items.",
+    "tags": [
+      "swade",
+      "savage-worlds",
+      "core",
+      "system"
+    ],
+    "origin": "official",
+    "systems": [
+      "swade"
+    ],
+    "stars": 0,
+    "github_repo": "ctrl-alton-delete/swade-rpg-companion",
+    "repo_url": "https://ctrl-alton-delete.github.io/swade-rpg-companion/",
+    "has_system": true
+  },
+  {
     "name": "Northlands-world-book-Feats",
     "description": "all general,origin and fight style feats from northland world book",
     "tags": [
@@ -3559,7 +3736,7 @@
       "feats",
       "northlands-worldbook"
     ],
-    "origin": "official",
+    "origin": "published",
     "systems": [
       "5e2024"
     ],
