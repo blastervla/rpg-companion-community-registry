@@ -3744,5 +3744,26 @@
     "github_repo": "Braindead78/Northlands-world-book-Feats",
     "repo_url": "https://Braindead78.github.io/Northlands-world-book-Feats/",
     "has_system": false
+  },
+  {
+    "name": "DnD-Beyond-Drops-May-Nov",
+    "description": "1 Subclass 2 Species 12 Spells 14 Items 16 Feats 21 Monsters. Errata has been considered. ",
+    "tags": [
+      "5e2024",
+      "race",
+      "subclass",
+      "monsters",
+      "spells",
+      "items",
+      "feats"
+    ],
+    "origin": "official",
+    "systems": [
+      "5e2024"
+    ],
+    "stars": 0,
+    "github_repo": "Angelltws/DnD-Beyond-Drops-May-Nov",
+    "repo_url": "https://Angelltws.github.io/DnD-Beyond-Drops-May-Nov/",
+    "has_system": false
   }
 ]
